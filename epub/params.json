@@ -18,12 +18,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
-      "brAfter": "",
+      "brBefore": "MLP-text-bez1radku--12-0\nMLP-verse--I---12-12",
+      "brAfter": "MLP-text--0-12\nMLP-text-bez1radku--0-12\nMLP-verse--I---12-12",
       "blockquote": "",
       "figure": "",
-      "em": "",
-      "strong": "",
+      "em": "MLP-dopis-podpis--I\nMLP-titulka-prekladatel\nMLP-znak-kurziva-.+\nchar-style-override-3",
+      "strong": "MLP-licence-paragraf\nMLP-tiraz-autor-a-nazev",
       "remove": "",
       "ignore": ""
     },
@@ -32,37 +32,45 @@
         "filename": "frankenstein_001.md",
         "xhtml": "frankenstein_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_002.md",
         "xhtml": "frankenstein_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_003.md",
         "xhtml": "frankenstein_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_004.md",
         "xhtml": "frankenstein_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_005.md",
@@ -71,7 +79,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Dopis I",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_006.md",
@@ -80,7 +90,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Dopis II",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_007.md",
@@ -89,7 +101,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Dopis III",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_008.md",
@@ -98,223 +112,274 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_009.md",
-        "xhtml": "frankenstein_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_010.md",
-        "xhtml": "frankenstein_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_011.md",
-        "xhtml": "frankenstein_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_012.md",
-        "xhtml": "frankenstein_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_013.md",
-        "xhtml": "frankenstein_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_014.md",
-        "xhtml": "frankenstein_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_015.md",
-        "xhtml": "frankenstein_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_016.md",
-        "xhtml": "frankenstein_016.xhtml",
-        "id": 15,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_017.md",
-        "xhtml": "frankenstein_017.xhtml",
-        "id": 16,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_018.md",
-        "xhtml": "frankenstein_018.xhtml",
-        "id": 17,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_019.md",
-        "xhtml": "frankenstein_019.xhtml",
-        "id": 18,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_020.md",
-        "xhtml": "frankenstein_020.xhtml",
-        "id": 19,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_021.md",
-        "xhtml": "frankenstein_021.xhtml",
-        "id": 20,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_022.md",
-        "xhtml": "frankenstein_022.xhtml",
-        "id": 21,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_023.md",
-        "xhtml": "frankenstein_023.xhtml",
-        "id": 22,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_024.md",
-        "xhtml": "frankenstein_024.xhtml",
-        "id": 23,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_025.md",
-        "xhtml": "frankenstein_025.xhtml",
-        "id": 24,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_026.md",
-        "xhtml": "frankenstein_026.xhtml",
-        "id": 25,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_027.md",
-        "xhtml": "frankenstein_027.xhtml",
-        "id": 26,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_028.md",
-        "xhtml": "frankenstein_028.xhtml",
-        "id": 27,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_029.md",
-        "xhtml": "frankenstein_029.xhtml",
-        "id": 28,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_030.md",
-        "xhtml": "frankenstein_030.xhtml",
-        "id": 29,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_031.md",
-        "xhtml": "frankenstein_031.xhtml",
-        "id": 30,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
-      },
-      {
-        "filename": "frankenstein_032.md",
-        "xhtml": "frankenstein_032.xhtml",
-        "id": 31,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "children": [
+          {
+            "filename": "frankenstein_009.md",
+            "xhtml": "frankenstein_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 1",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_010.md",
+            "xhtml": "frankenstein_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 2",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_011.md",
+            "xhtml": "frankenstein_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 3",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_012.md",
+            "xhtml": "frankenstein_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 4",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_013.md",
+            "xhtml": "frankenstein_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 5",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_014.md",
+            "xhtml": "frankenstein_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 6",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_015.md",
+            "xhtml": "frankenstein_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 7",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_016.md",
+            "xhtml": "frankenstein_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 8",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_017.md",
+            "xhtml": "frankenstein_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 9",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_018.md",
+            "xhtml": "frankenstein_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 10",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_019.md",
+            "xhtml": "frankenstein_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 11",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_020.md",
+            "xhtml": "frankenstein_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 12",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_021.md",
+            "xhtml": "frankenstein_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 13",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_022.md",
+            "xhtml": "frankenstein_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 14",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_023.md",
+            "xhtml": "frankenstein_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 15",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_024.md",
+            "xhtml": "frankenstein_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 16",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_025.md",
+            "xhtml": "frankenstein_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 17",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_026.md",
+            "xhtml": "frankenstein_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 18",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_027.md",
+            "xhtml": "frankenstein_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 19",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_028.md",
+            "xhtml": "frankenstein_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 20",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_029.md",
+            "xhtml": "frankenstein_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 21",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_030.md",
+            "xhtml": "frankenstein_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 22",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_031.md",
+            "xhtml": "frankenstein_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 23",
+            "subtitle": ""
+          },
+          {
+            "filename": "frankenstein_032.md",
+            "xhtml": "frankenstein_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Kapitola 24",
+            "subtitle": ""
+          }
+        ],
+        "title": "Dopis IV",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_033.md",
@@ -323,16 +388,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Deník kapitána Waltona, pokračování",
+        "subtitle": ""
       },
       {
         "filename": "frankenstein_034.md",
         "xhtml": "frankenstein_034.xhtml",
         "id": 33,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -342,8 +411,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Mary Shelleyová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-29T17:56:13.154Z",
-      "languageCode": "cs"
+      "modified": "2021-08-29T18:00:48.773Z"
     },
     "chapters": [
       {
@@ -371,175 +439,175 @@
         "xhtml": "frankenstein_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopis I",
         "subtitleSuggest": "",
         "filename": "frankenstein_005.md",
         "xhtml": "frankenstein_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopis II",
         "subtitleSuggest": "",
         "filename": "frankenstein_006.md",
         "xhtml": "frankenstein_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopis III",
         "subtitleSuggest": "",
         "filename": "frankenstein_007.md",
         "xhtml": "frankenstein_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dopis IV",
         "subtitleSuggest": "",
         "filename": "frankenstein_008.md",
         "xhtml": "frankenstein_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 1",
         "subtitleSuggest": "",
         "filename": "frankenstein_009.md",
         "xhtml": "frankenstein_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 2",
         "subtitleSuggest": "",
         "filename": "frankenstein_010.md",
         "xhtml": "frankenstein_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 3",
         "subtitleSuggest": "",
         "filename": "frankenstein_011.md",
         "xhtml": "frankenstein_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 4",
         "subtitleSuggest": "",
         "filename": "frankenstein_012.md",
         "xhtml": "frankenstein_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 5",
         "subtitleSuggest": "",
         "filename": "frankenstein_013.md",
         "xhtml": "frankenstein_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 6",
         "subtitleSuggest": "",
         "filename": "frankenstein_014.md",
         "xhtml": "frankenstein_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 7",
         "subtitleSuggest": "",
         "filename": "frankenstein_015.md",
         "xhtml": "frankenstein_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 8",
         "subtitleSuggest": "",
         "filename": "frankenstein_016.md",
         "xhtml": "frankenstein_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 9",
         "subtitleSuggest": "",
         "filename": "frankenstein_017.md",
         "xhtml": "frankenstein_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 10",
         "subtitleSuggest": "",
         "filename": "frankenstein_018.md",
         "xhtml": "frankenstein_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 11",
         "subtitleSuggest": "",
         "filename": "frankenstein_019.md",
         "xhtml": "frankenstein_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 12",
         "subtitleSuggest": "",
         "filename": "frankenstein_020.md",
         "xhtml": "frankenstein_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 13",
         "subtitleSuggest": "",
         "filename": "frankenstein_021.md",
         "xhtml": "frankenstein_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 14",
         "subtitleSuggest": "",
         "filename": "frankenstein_022.md",
         "xhtml": "frankenstein_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 15",
         "subtitleSuggest": "",
         "filename": "frankenstein_023.md",
         "xhtml": "frankenstein_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 16",
         "subtitleSuggest": "",
         "filename": "frankenstein_024.md",
         "xhtml": "frankenstein_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 17",
         "subtitleSuggest": "",
         "filename": "frankenstein_025.md",
         "xhtml": "frankenstein_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 18",
         "subtitleSuggest": "",
         "filename": "frankenstein_026.md",
         "xhtml": "frankenstein_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 19",
         "subtitleSuggest": "",
         "filename": "frankenstein_027.md",
         "xhtml": "frankenstein_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 20",
         "subtitleSuggest": "",
         "filename": "frankenstein_028.md",
         "xhtml": "frankenstein_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 21",
         "subtitleSuggest": "",
         "filename": "frankenstein_029.md",
         "xhtml": "frankenstein_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 22",
         "subtitleSuggest": "",
         "filename": "frankenstein_030.md",
         "xhtml": "frankenstein_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 23",
         "subtitleSuggest": "",
         "filename": "frankenstein_031.md",
         "xhtml": "frankenstein_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 24",
         "subtitleSuggest": "",
         "filename": "frankenstein_032.md",
         "xhtml": "frankenstein_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Deník kapitána Waltona, pokračování",
         "subtitleSuggest": "",
         "filename": "frankenstein_033.md",
         "xhtml": "frankenstein_033.xhtml"
@@ -627,6 +695,6 @@
       "user": "books-are-next",
       "repo": "frankenstein"
     },
-    "generatedAt": 1630259773632
+    "generatedAt": 1630260049468
   }
 }
