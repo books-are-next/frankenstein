@@ -1,0 +1,294 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Frankenstein",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Mary Shelleyová",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-08-29T17:56:13.154Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_001.md",
+        "xhtml": "frankenstein_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_002.md",
+        "xhtml": "frankenstein_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_003.md",
+        "xhtml": "frankenstein_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_004.md",
+        "xhtml": "frankenstein_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_005.md",
+        "xhtml": "frankenstein_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_006.md",
+        "xhtml": "frankenstein_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_007.md",
+        "xhtml": "frankenstein_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_008.md",
+        "xhtml": "frankenstein_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_009.md",
+        "xhtml": "frankenstein_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_010.md",
+        "xhtml": "frankenstein_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_011.md",
+        "xhtml": "frankenstein_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_012.md",
+        "xhtml": "frankenstein_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_013.md",
+        "xhtml": "frankenstein_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_014.md",
+        "xhtml": "frankenstein_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_015.md",
+        "xhtml": "frankenstein_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_016.md",
+        "xhtml": "frankenstein_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_017.md",
+        "xhtml": "frankenstein_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_018.md",
+        "xhtml": "frankenstein_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_019.md",
+        "xhtml": "frankenstein_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_020.md",
+        "xhtml": "frankenstein_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_021.md",
+        "xhtml": "frankenstein_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_022.md",
+        "xhtml": "frankenstein_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_023.md",
+        "xhtml": "frankenstein_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_024.md",
+        "xhtml": "frankenstein_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_025.md",
+        "xhtml": "frankenstein_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_026.md",
+        "xhtml": "frankenstein_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_027.md",
+        "xhtml": "frankenstein_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_028.md",
+        "xhtml": "frankenstein_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_029.md",
+        "xhtml": "frankenstein_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_030.md",
+        "xhtml": "frankenstein_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_031.md",
+        "xhtml": "frankenstein_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_032.md",
+        "xhtml": "frankenstein_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_033.md",
+        "xhtml": "frankenstein_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "frankenstein_034.md",
+        "xhtml": "frankenstein_034.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/frankenste_idstyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image002_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/obalka_frankenstein_fmt.png"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.png"
+      }
+    ],
+    "classes": [
+      "Footnote-reference",
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis",
+      "MLP-dopis-bez1radku",
+      "MLP-dopis-podpis",
+      "MLP-dopis-podpis--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-pozn-pod-carou",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-titulka-prekladatel",
+      "MLP-uroven1-zvlastni-pripady",
+      "MLP-uroven2-kapitola",
+      "MLP-verse--I---12-12",
+      "MLP-znak-kurziva-11b",
+      "MLP-znak-kurziva-9b",
+      "char-style-override-1",
+      "char-style-override-2",
+      "char-style-override-3",
+      "char-style-override-4",
+      "footnote",
+      "footnote-anchor",
+      "footnote-link",
+      "footnotes",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4",
+      "para-style-override-5",
+      "para-style-override-6"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "frankenstein"
+    },
+    "generatedAt": 1630259773632
+  }
+}
