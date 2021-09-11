@@ -1,14 +1,14 @@
 {
   "author": "Mary Shelleyová",
-  "identifier": "shelleyova-frankenstein-d3b7b9a",
+  "identifier": "shelleyova-frankenstein-ca6a277",
   "languagecode": "cs",
   "modified": "2021-08-29T17:56:13.154Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Frankenstein",
-  "revision": "d3b7b9a",
+  "revision": "ca6a277",
   "generatedAt": {
-    "date": "Sat Sep 11 2021 09:40:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1631353207399
+    "date": "Sat Sep 11 2021 09:50:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631353829991
   },
   "documents": [
     {

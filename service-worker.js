@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-d3b7b9a';
+const CACHE = 'cache-ca6a277';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./frankenstein_001.html","./frankenstein_002.html","./frankenstein_005.html","./frankenstein_006.html","./frankenstein_007.html","./frankenstein_008.html","./frankenstein_033.html","./index.html","./manifest.json","./resources.html","./scripts/bundle.js","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_frankenstein_fmt.png","./resources/index.xml","./resources/upoutavka_eknihy_fmt.png","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./frankenstein_001.html","./frankenstein_002.html","./frankenstein_005.html","./frankenstein_006.html","./frankenstein_008.html","./frankenstein_007.html","./frankenstein_033.html","./index.html","./manifest.json","./resources.html","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/index.xml","./resources/obalka_frankenstein_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
