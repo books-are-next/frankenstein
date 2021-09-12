@@ -411,7 +411,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Mary Shelleyová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-11T10:03:33.950Z"
+      "modified": "2021-09-12T09:29:47.017Z"
     },
     "chapters": [
       {
@@ -695,6 +695,6 @@
       "user": "books-are-next",
       "repo": "frankenstein"
     },
-    "generatedAt": 1631354614613
+    "generatedAt": 1631438987672
   }
 }
