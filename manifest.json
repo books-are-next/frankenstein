@@ -1,0 +1,664 @@
+{
+  "author": "Mary Shelleyová",
+  "identifier": "shelleyova-frankenstein-cff5832",
+  "languagecode": "cs",
+  "modified": "2021-08-29T17:56:13.154Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Frankenstein",
+  "revision": "cff5832",
+  "generatedAt": {
+    "date": "Mon Sep 13 2021 18:29:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631557778058
+  },
+  "documents": [
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 147,
+      "chars": 989,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "frankenstein_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "frankenstein_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "frankenstein_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "frankenstein_001.html",
+      "next": "frankenstein_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis I",
+      "file": "frankenstein_005.html",
+      "words": 1045,
+      "chars": 6364,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 2,
+      "prev": "frankenstein_002.html",
+      "next": "frankenstein_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis I",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis II",
+      "file": "frankenstein_006.html",
+      "words": 1112,
+      "chars": 6741,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 3,
+      "prev": "frankenstein_005.html",
+      "next": "frankenstein_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis II",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis III",
+      "file": "frankenstein_007.html",
+      "words": 256,
+      "chars": 1530,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 4,
+      "prev": "frankenstein_006.html",
+      "next": "frankenstein_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis III",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dopis IV",
+      "file": "frankenstein_008.html",
+      "words": 2374,
+      "chars": 14344,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 5,
+      "prev": "frankenstein_007.html",
+      "next": "frankenstein_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dopis IV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 1",
+      "file": "frankenstein_009.html",
+      "words": 1455,
+      "chars": 8904,
+      "ideas": 13,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 1",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 2",
+      "file": "frankenstein_010.html",
+      "words": 1862,
+      "chars": 11812,
+      "ideas": 19,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 2",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 3",
+      "file": "frankenstein_011.html",
+      "words": 2174,
+      "chars": 13678,
+      "ideas": 22,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 3",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 4",
+      "file": "frankenstein_012.html",
+      "words": 2047,
+      "chars": 12663,
+      "ideas": 15,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 4",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 5",
+      "file": "frankenstein_013.html",
+      "words": 1953,
+      "chars": 11596,
+      "ideas": 35,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 5",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 6",
+      "file": "frankenstein_014.html",
+      "words": 2178,
+      "chars": 13548,
+      "ideas": 23,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 6",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 7",
+      "file": "frankenstein_015.html",
+      "words": 2908,
+      "chars": 17609,
+      "ideas": 53,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 7",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 8",
+      "file": "frankenstein_016.html",
+      "words": 2494,
+      "chars": 15170,
+      "ideas": 33,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 8",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 9",
+      "file": "frankenstein_017.html",
+      "words": 1896,
+      "chars": 11509,
+      "ideas": 18,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 9",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 10",
+      "file": "frankenstein_018.html",
+      "words": 1849,
+      "chars": 11299,
+      "ideas": 17,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 10",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 11",
+      "file": "frankenstein_019.html",
+      "words": 2299,
+      "chars": 13532,
+      "ideas": 21,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 11",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 12",
+      "file": "frankenstein_020.html",
+      "words": 1671,
+      "chars": 10145,
+      "ideas": 20,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 12",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 13",
+      "file": "frankenstein_021.html",
+      "words": 1698,
+      "chars": 10275,
+      "ideas": 22,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 13",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 14",
+      "file": "frankenstein_022.html",
+      "words": 1402,
+      "chars": 8531,
+      "ideas": 21,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 14",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 15",
+      "file": "frankenstein_023.html",
+      "words": 2503,
+      "chars": 15390,
+      "ideas": 39,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 15",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 16",
+      "file": "frankenstein_024.html",
+      "words": 2604,
+      "chars": 15286,
+      "ideas": 38,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 16",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 17",
+      "file": "frankenstein_025.html",
+      "words": 1560,
+      "chars": 9159,
+      "ideas": 23,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 17",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 18",
+      "file": "frankenstein_026.html",
+      "words": 2223,
+      "chars": 13411,
+      "ideas": 22,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 18",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 19",
+      "file": "frankenstein_027.html",
+      "words": 2159,
+      "chars": 13245,
+      "ideas": 23,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 19",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 20",
+      "file": "frankenstein_028.html",
+      "words": 2842,
+      "chars": 16786,
+      "ideas": 36,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 20",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 21",
+      "file": "frankenstein_029.html",
+      "words": 2792,
+      "chars": 16797,
+      "ideas": 49,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 21",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 22",
+      "file": "frankenstein_030.html",
+      "words": 2716,
+      "chars": 16283,
+      "ideas": 41,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 22",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 23",
+      "file": "frankenstein_031.html",
+      "words": 2003,
+      "chars": 11873,
+      "ideas": 31,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 23",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola 24",
+      "file": "frankenstein_032.html",
+      "words": 2170,
+      "chars": 12758,
+      "ideas": 25,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola 24",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Deník kapitána Waltona, pokračování",
+      "file": "frankenstein_033.html",
+      "words": 4283,
+      "chars": 25821,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 6,
+      "prev": "frankenstein_008.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Deník kapitána Waltona, pokračování",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "frankenstein_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 60675,
+      "chars": 367048,
+      "ideas": 815
+    },
+    "chapters": {
+      "words": 9070,
+      "chars": 54800,
+      "ideas": 132
+    }
+  }
+}
