@@ -1,6 +1,8 @@
 ---
-title: ''
+title: Tiráž
 ---
+
+***
 
 Frankenstein
 
@@ -9,9 +11,7 @@ Mary Shelleyová
 _Přeložil Tomáš Korbař_
 
 
----
-title: ''
----
+***
 
 Znění tohoto textu vychází z díla [Frankenstein](https://search.mlp.cz/cz/titul/frankenstein/2244842/) tak, jak bylo vydáno Lidovým nakladatelstvím v Praze v roce 1969. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -30,9 +30,7 @@ Verze 1.0 z 21. 1. 2020.
 ![image002.jpg](./resources/image002_fmt.png)
 
 
----
-title: ''
----
+***
 
 **Mary Shelleyová  
 Frankenstein**
