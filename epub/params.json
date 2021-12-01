@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Frankenstein",
@@ -6,7 +7,9 @@
       "author": "Mary Shelleyová",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-08-29T17:56:13.154Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola\nMLP-uroven1-zvlastni-pripady",
@@ -32,7 +35,7 @@
         "filename": "frankenstein_001.md",
         "xhtml": "frankenstein_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -698,3 +701,4 @@
     "generatedAt": 1630260049468
   }
 }
+
