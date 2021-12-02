@@ -1,83 +1,46 @@
 {
   "author": "Mary Shelleyová",
-  "identifier": "shelleyova-frankenstein-8c54dc3",
+  "edition": "beletrie",
+  "identifier": "shelleyova-frankenstein-f41deea",
   "languagecode": "cs",
   "modified": "2021-08-29T17:56:13.154Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Frankenstein",
-  "revision": "8c54dc3",
+  "revision": "f41deea",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:28:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379717404
+    "date": "Thu Dec 02 2021 08:08:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638432508969
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 147,
-      "chars": 989,
-      "ideas": 24,
-      "role": "colophon",
-      "order": null,
-      "next": "frankenstein_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "frankenstein_001.html",
+      "title": "Frankenstein",
+      "file": "frankenstein_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "frankenstein_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "frankenstein_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "frankenstein_001.html",
       "next": "frankenstein_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dopis I",
+      "title": "Dopis I • Frankenstein",
       "file": "frankenstein_005.html",
       "words": 1045,
       "chars": 6364,
       "ideas": 14,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "frankenstein_002.html",
       "next": "frankenstein_006.html",
       "toc": [
@@ -85,19 +48,19 @@
           "index": 0,
           "level": 1,
           "name": "Dopis I",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dopis II",
+      "title": "Dopis II • Frankenstein",
       "file": "frankenstein_006.html",
       "words": 1112,
       "chars": 6741,
       "ideas": 13,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "frankenstein_005.html",
       "next": "frankenstein_007.html",
       "toc": [
@@ -105,19 +68,19 @@
           "index": 0,
           "level": 1,
           "name": "Dopis II",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dopis III",
+      "title": "Dopis III • Frankenstein",
       "file": "frankenstein_007.html",
       "words": 256,
       "chars": 1530,
       "ideas": 10,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "frankenstein_006.html",
       "next": "frankenstein_008.html",
       "toc": [
@@ -125,540 +88,562 @@
           "index": 0,
           "level": 1,
           "name": "Dopis III",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Dopis IV",
+      "title": "Dopis IV • Frankenstein",
       "file": "frankenstein_008.html",
       "words": 2374,
       "chars": 14344,
       "ideas": 39,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "frankenstein_007.html",
-      "next": "frankenstein_033.html",
+      "next": "frankenstein_009.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Dopis IV",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 1",
+      "title": "Kapitola 1 • Frankenstein",
       "file": "frankenstein_009.html",
       "words": 1455,
-      "chars": 8904,
+      "chars": 8905,
       "ideas": 13,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 5,
+      "prev": "frankenstein_008.html",
+      "next": "frankenstein_010.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 1",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 2",
+      "title": "Kapitola 2 • Frankenstein",
       "file": "frankenstein_010.html",
       "words": 1862,
-      "chars": 11812,
+      "chars": 11815,
       "ideas": 19,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 6,
+      "prev": "frankenstein_009.html",
+      "next": "frankenstein_011.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 2",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 3",
+      "title": "Kapitola 3 • Frankenstein",
       "file": "frankenstein_011.html",
       "words": 2174,
       "chars": 13678,
       "ideas": 22,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 7,
+      "prev": "frankenstein_010.html",
+      "next": "frankenstein_012.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 3",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 4",
+      "title": "Kapitola 4 • Frankenstein",
       "file": "frankenstein_012.html",
       "words": 2047,
       "chars": 12663,
       "ideas": 15,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 8,
+      "prev": "frankenstein_011.html",
+      "next": "frankenstein_013.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 4",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 5",
+      "title": "Kapitola 5 • Frankenstein",
       "file": "frankenstein_013.html",
       "words": 1953,
-      "chars": 11596,
+      "chars": 11598,
       "ideas": 35,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 9,
+      "prev": "frankenstein_012.html",
+      "next": "frankenstein_014.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 5",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 6",
+      "title": "Kapitola 6 • Frankenstein",
       "file": "frankenstein_014.html",
       "words": 2178,
       "chars": 13548,
       "ideas": 23,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 10,
+      "prev": "frankenstein_013.html",
+      "next": "frankenstein_015.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 6",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 7",
+      "title": "Kapitola 7 • Frankenstein",
       "file": "frankenstein_015.html",
       "words": 2908,
       "chars": 17609,
       "ideas": 53,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 11,
+      "prev": "frankenstein_014.html",
+      "next": "frankenstein_016.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 7",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 8",
+      "title": "Kapitola 8 • Frankenstein",
       "file": "frankenstein_016.html",
       "words": 2494,
       "chars": 15170,
       "ideas": 33,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 12,
+      "prev": "frankenstein_015.html",
+      "next": "frankenstein_017.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 8",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 9",
+      "title": "Kapitola 9 • Frankenstein",
       "file": "frankenstein_017.html",
       "words": 1896,
       "chars": 11509,
       "ideas": 18,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 13,
+      "prev": "frankenstein_016.html",
+      "next": "frankenstein_018.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 9",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 10",
+      "title": "Kapitola 10 • Frankenstein",
       "file": "frankenstein_018.html",
       "words": 1849,
       "chars": 11299,
       "ideas": 17,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 14,
+      "prev": "frankenstein_017.html",
+      "next": "frankenstein_019.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 10",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 11",
+      "title": "Kapitola 11 • Frankenstein",
       "file": "frankenstein_019.html",
       "words": 2299,
-      "chars": 13532,
+      "chars": 13533,
       "ideas": 21,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 15,
+      "prev": "frankenstein_018.html",
+      "next": "frankenstein_020.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 11",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 12",
+      "title": "Kapitola 12 • Frankenstein",
       "file": "frankenstein_020.html",
       "words": 1671,
       "chars": 10145,
       "ideas": 20,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 16,
+      "prev": "frankenstein_019.html",
+      "next": "frankenstein_021.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 12",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 13",
+      "title": "Kapitola 13 • Frankenstein",
       "file": "frankenstein_021.html",
       "words": 1698,
       "chars": 10275,
       "ideas": 22,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 17,
+      "prev": "frankenstein_020.html",
+      "next": "frankenstein_022.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 13",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 14",
+      "title": "Kapitola 14 • Frankenstein",
       "file": "frankenstein_022.html",
       "words": 1402,
       "chars": 8531,
       "ideas": 21,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 18,
+      "prev": "frankenstein_021.html",
+      "next": "frankenstein_023.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 14",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 15",
+      "title": "Kapitola 15 • Frankenstein",
       "file": "frankenstein_023.html",
       "words": 2503,
       "chars": 15390,
       "ideas": 39,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 19,
+      "prev": "frankenstein_022.html",
+      "next": "frankenstein_024.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 15",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 16",
+      "title": "Kapitola 16 • Frankenstein",
       "file": "frankenstein_024.html",
       "words": 2604,
       "chars": 15286,
       "ideas": 38,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 20,
+      "prev": "frankenstein_023.html",
+      "next": "frankenstein_025.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 16",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 17",
+      "title": "Kapitola 17 • Frankenstein",
       "file": "frankenstein_025.html",
       "words": 1560,
       "chars": 9159,
       "ideas": 23,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 21,
+      "prev": "frankenstein_024.html",
+      "next": "frankenstein_026.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 17",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 18",
+      "title": "Kapitola 18 • Frankenstein",
       "file": "frankenstein_026.html",
       "words": 2223,
       "chars": 13411,
       "ideas": 22,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 22,
+      "prev": "frankenstein_025.html",
+      "next": "frankenstein_027.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 18",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 19",
+      "title": "Kapitola 19 • Frankenstein",
       "file": "frankenstein_027.html",
       "words": 2159,
       "chars": 13245,
       "ideas": 23,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 23,
+      "prev": "frankenstein_026.html",
+      "next": "frankenstein_028.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 19",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 20",
+      "title": "Kapitola 20 • Frankenstein",
       "file": "frankenstein_028.html",
       "words": 2842,
       "chars": 16786,
       "ideas": 36,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 24,
+      "prev": "frankenstein_027.html",
+      "next": "frankenstein_029.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 20",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 21",
+      "title": "Kapitola 21 • Frankenstein",
       "file": "frankenstein_029.html",
       "words": 2792,
       "chars": 16797,
       "ideas": 49,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 25,
+      "prev": "frankenstein_028.html",
+      "next": "frankenstein_030.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 21",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 22",
+      "title": "Kapitola 22 • Frankenstein",
       "file": "frankenstein_030.html",
       "words": 2716,
       "chars": 16283,
       "ideas": 41,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 26,
+      "prev": "frankenstein_029.html",
+      "next": "frankenstein_031.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 22",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 23",
+      "title": "Kapitola 23 • Frankenstein",
       "file": "frankenstein_031.html",
       "words": 2003,
       "chars": 11873,
       "ideas": 31,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 27,
+      "prev": "frankenstein_030.html",
+      "next": "frankenstein_032.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 23",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kapitola 24",
+      "title": "Kapitola 24 • Frankenstein",
       "file": "frankenstein_032.html",
       "words": 2170,
       "chars": 12758,
       "ideas": 25,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
+      "role": "chapter",
+      "order": 28,
+      "prev": "frankenstein_031.html",
+      "next": "frankenstein_033.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kapitola 24",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Deník kapitána Waltona, pokračování",
+      "title": "Deník kapitána Waltona, pokračování • Frankenstein",
       "file": "frankenstein_033.html",
       "words": 4283,
       "chars": 25821,
       "ideas": 56,
       "role": "chapter",
-      "order": 6,
-      "prev": "frankenstein_008.html",
-      "next": null,
+      "order": 29,
+      "prev": "frankenstein_032.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Deník kapitána Waltona, pokračování",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
+      "title": "Tiráž • Frankenstein",
+      "file": "colophon.html",
+      "words": 147,
+      "chars": 989,
+      "ideas": 24,
+      "role": "colophon",
       "order": null,
-      "next": "frankenstein_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "frankenstein_001.html",
-      "toc": []
+      "prev": "frankenstein_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 60675,
-      "chars": 367048,
-      "ideas": 815
+      "words": 60680,
+      "chars": 367093,
+      "ideas": 819
     },
     "chapters": {
-      "words": 9070,
-      "chars": 54800,
-      "ideas": 132
+      "words": 60528,
+      "chars": 366066,
+      "ideas": 791
     }
   }
 }

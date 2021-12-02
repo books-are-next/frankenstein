@@ -1,7 +1,8 @@
-/* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-8c54dc3';
+/* global self, caches, fetch */
+
+const CACHE = 'cache-f41deea';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./frankenstein_001.html","./frankenstein_002.html","./frankenstein_005.html","./frankenstein_006.html","./frankenstein_007.html","./frankenstein_008.html","./frankenstein_009.html","./frankenstein_010.html","./frankenstein_011.html","./frankenstein_012.html","./frankenstein_013.html","./frankenstein_014.html","./frankenstein_015.html","./frankenstein_016.html","./frankenstein_017.html","./frankenstein_018.html","./frankenstein_019.html","./frankenstein_020.html","./frankenstein_021.html","./frankenstein_022.html","./frankenstein_023.html","./frankenstein_024.html","./frankenstein_025.html","./frankenstein_026.html","./frankenstein_027.html","./frankenstein_028.html","./frankenstein_029.html","./frankenstein_030.html","./frankenstein_031.html","./frankenstein_032.html","./frankenstein_033.html","./index.html","./manifest.json","./resources.html","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/index.xml","./resources/obalka_frankenstein_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./frankenstein_002.html","./frankenstein_005.html","./frankenstein_006.html","./frankenstein_007.html","./frankenstein_008.html","./frankenstein_009.html","./frankenstein_010.html","./frankenstein_011.html","./frankenstein_012.html","./frankenstein_013.html","./frankenstein_014.html","./frankenstein_015.html","./frankenstein_016.html","./frankenstein_017.html","./frankenstein_018.html","./frankenstein_019.html","./frankenstein_020.html","./frankenstein_021.html","./frankenstein_022.html","./frankenstein_023.html","./frankenstein_024.html","./frankenstein_025.html","./frankenstein_026.html","./frankenstein_027.html","./frankenstein_028.html","./frankenstein_029.html","./frankenstein_030.html","./frankenstein_031.html","./frankenstein_032.html","./frankenstein_033.html","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_frankenstein_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
