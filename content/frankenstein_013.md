@@ -23,13 +23,13 @@ hled leká se a chví
 a ohlédnuv se běží dál,  
 zpět nezře už, neb ví,  
 že v patách za ním po cestě  
-jde démon strašlivý.“[5](#footnote-27518-5)
+jde démon strašlivý.“[^5]
 
   
 
 Tak jsem došel až k hostinci, u něhož se obvykle zastavovaly různé dostavníky a povozy. Zarazil jsem se tu, aniž jsem věděl proč. Chvíli jsem postál a upíral zrak na kočár, který přijížděl proti mně z druhého konce ulice. Když se přiblížil, všiml jsem si, že to je dostavník ze Švýcarska. Zastavil těsně u mě, a když se otevřela dvířka, spatřil jsem Jindřicha Clervala. Jakmile mě zahlédl, ihned vyskočil ven. „Můj milý Frankensteine!“ zvolal, „to jsem rád, že tě vidím! Jaké štěstí, že jsi tady právě při mém příjezdu!“
 
-Nic se nemůže vyrovnat radosti, kterou jsem pocítil při setkání s Clervalem. Jeho přítomnost mi opět připomněla otce, Alžbětu a domov, tak drahý mým vzpomínkám. Uchopil jsem ho za ruku a okamžitě jsem zapomněl na svou hrůzu a své neštěstí a náhle jsem poprvé po mnoha měsících pocítil klidnou a nerušenou radost. Už proto jsem přítele co nejsrdečněji přivítal a vydali jsme se k mé koleji. Clerval mi ještě chvíli vyprávěl o společných přátelích a o tom, jaké měl štěstí, že mu bylo dovoleno přijet do Ingolstadtu. „Jistě si dovedeš představit,“ řekl, „jak nesnadné bylo přesvědčit mého otce, že všechno potřebné vědění není obsaženo ve vznešeném účetnictví. Stejně si však myslím, že jsem ho nakonec opustil nepřesvědčeného, protože jeho stálá odpověď na mé neúnavné prosby byla táž jako odpověď onoho holandského rektora ve Faráři wakefieldském: ‚… bez řečtiny mám ročně deset tisíc zlatých; bez řečtiny mi chutná docela dobře jíst.‘[6](#footnote-27518-6) Ale nakonec přemohla láska ke mně otcův odpor k vědě, a otec mi dovolil podniknout výzkumnou výpravu do země poznání.“
+Nic se nemůže vyrovnat radosti, kterou jsem pocítil při setkání s Clervalem. Jeho přítomnost mi opět připomněla otce, Alžbětu a domov, tak drahý mým vzpomínkám. Uchopil jsem ho za ruku a okamžitě jsem zapomněl na svou hrůzu a své neštěstí a náhle jsem poprvé po mnoha měsících pocítil klidnou a nerušenou radost. Už proto jsem přítele co nejsrdečněji přivítal a vydali jsme se k mé koleji. Clerval mi ještě chvíli vyprávěl o společných přátelích a o tom, jaké měl štěstí, že mu bylo dovoleno přijet do Ingolstadtu. „Jistě si dovedeš představit,“ řekl, „jak nesnadné bylo přesvědčit mého otce, že všechno potřebné vědění není obsaženo ve vznešeném účetnictví. Stejně si však myslím, že jsem ho nakonec opustil nepřesvědčeného, protože jeho stálá odpověď na mé neúnavné prosby byla táž jako odpověď onoho holandského rektora ve Faráři wakefieldském: ‚… bez řečtiny mám ročně deset tisíc zlatých; bez řečtiny mi chutná docela dobře jíst.‘[^6] Ale nakonec přemohla láska ke mně otcův odpor k vědě, a otec mi dovolil podniknout výzkumnou výpravu do země poznání.“
 
 „Jsem tak šťasten, že tě vidím, ale řekni mi ještě, jak se daří otci, bratrům a Alžbětě?“
 
@@ -67,6 +67,6 @@ Zachvěl jsem se. O jedné věci! Co by to mohlo být? Naráží snad na věc, 
 
   
 
-[5](#footnote-27518-5-backlink) S. T. Coleridge: _Píseň o starém námořníku_, překlad Josefa Palivce.
+[^5]: S. T. Coleridge: _Píseň o starém námořníku_, překlad Josefa Palivce.
 
-[6](#footnote-27518-6-backlink) Oliver Goldsmith: _Farář wakefieldský_, překlad M. Jindra a A. Jindrová Špilarová.
+[^6]: Oliver Goldsmith: _Farář wakefieldský_, překlad M. Jindra a A. Jindrová Špilarová.
