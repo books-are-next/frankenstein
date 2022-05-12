@@ -46,7 +46,7 @@
         "filename": "frankenstein_002.md",
         "xhtml": "frankenstein_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -701,4 +701,3 @@
     "generatedAt": 1630260049468
   }
 }
-
