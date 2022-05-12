@@ -1,5 +1,6 @@
 ---
 title: Kapitola 17
+contentType: prose
 ---
 
 Domluvil a upřel na mě pohled plný očekávání. Jenže jsem byl zmaten a vyděšen a nedokázal jsem uspořádat myšlenky natolik, abych plně pochopil dosah jeho návrhu. Po chvíli pokračoval:

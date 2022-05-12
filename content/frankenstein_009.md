@@ -1,5 +1,6 @@
 ---
 title: Kapitola 1
+contentType: prose
 ---
 
 Narodil jsem se v Ženevě v jedné z nejpřednějších rodin republiky. Moji předkové zastávali místa radních a syndiků a můj otec vykonával mnoho let se ctí a věhlasem důležité veřejné funkce. Všichni, kdo ho znali, vážili si ho pro jeho bezúhonnost a neúnavnou péči o veřejné záležitosti. Od mládí byl neustále zaměstnán problémy své vlasti. Řada důvodů mu zabránila záhy se oženit a teprve ve zralém věku si založil rodinu.

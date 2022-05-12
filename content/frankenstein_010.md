@@ -1,5 +1,6 @@
 ---
 title: Kapitola 2
+contentType: prose
 ---
 
 Byli jsme vychováni společně. Byl jsem pouze o necelý rok starší. Není třeba říkat, že jakákoli neshoda nebo dokonce hádka nám byly zcela cizí. Naše přátelství se vyznačovalo souladem a rozdílnost a kontrast našich povah nás ještě více sbližovaly. Alžběta byla klidnější a soustředěnější, já zase přes svou vášnivost jsem byl praktičtější a hlouběji zasažen touhou po vědění. Alžběta horlivě četla verše a v překrásné velebné krajině, která obklopovala náš švýcarský domov – vznešené obrysy hor, změny ročních období, bouře a klid, ticho zimy a kypící ruch našich alpských let –, nalézala široké pole pro obdiv a potěšení. Zatímco má společnice s vážnou a uspokojivou myslí pozorovala pozoruhodné výsledky jevů, já jsem se zalíbením zkoumal jejich příčiny. Svět byl pro mě tajemstvím, a to jsem toužil rozluštit. Zvídavost, vážná snaha osvojit si skryté zákony přírody, radost blížící se nadšení, když se mi odhalily, to všechno patří k mým prvním vzpomínkám.

@@ -1,5 +1,6 @@
 ---
 title: Kapitola 12
+contentType: prose
 ---
 
 Ležel jsem na slámě, ale nemohl jsem usnout. Myslel jsem na to, co jsem toho dne zažil. Zejména na mě zapůsobilo laskavé jednání mých sousedů a já zatoužil vejít k nim, ale dobře jsem si pamatoval lekci, které se mi dostalo předešlého dne od surových vesničanů. Usoudil jsem proto, že ať už se později rozhodnu pro cokoliv, prozatím zůstanu klidně ve své kůlně, budu pozorovat konání svých sousedů a vynasnažím se poznat, jakými pohnutkami jsou jejich činy vedeny.

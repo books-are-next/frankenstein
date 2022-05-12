@@ -1,5 +1,6 @@
 ---
 title: Kapitola 10
+contentType: prose
 ---
 
 Příští den jsem se toulal údolím. Zastavil jsem se u pramene Arvei­ronu, napájeného ledovcem, který pomalu sestupuje dolů od horského vrcholu, aby přehradil údolí. Přede mnou se zdvihala strmá úbočí velebných hor, nade mnou visela sněžná zeď ledovce, kolem bylo roztroušeno několik borovic. Slavnostní ticho audienčního sálu svrchované Přírody bylo porušováno pouze zurčením potoků, pádem balvanů, mohutným duněním laviny nebo třeskem nakupeného ledu, který podle neměnných zákonů stále a stále praskal a pukal, jako by byl pouhou hračkou v jejích rukou. Tato nádherná krása mi přinášela největší útěchu, jakou jsem byl schopen přijmout. Povznášela mě nad všechny malicherné pocity, a ačkoli mě nezbavovala zármutku, přece jen ho zmírňovala a uklidňovala. Do určité míry mi rovněž odvedla myšlenky od všeho, nad čím jsem poslední měsíc uvažoval. Večer jsem se vrátil dolů a ve spánku jsem znovu navštívil horskou krajinu, kterou jsem prozkoumával ve dne. Kolem mě se shlukli neposkvrněný zasněžený vrcholek, skvoucí horské štíty, borovicové lesíky, rozeklaná holá propast, orel vznášející se mezi mraky a vše to prosilo, abych se uklidnil.

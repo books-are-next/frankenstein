@@ -1,5 +1,6 @@
 ---
 title: Kapitola 15
+contentType: prose
 ---
 
 Takový byl příběh mých přátel. Dojal mě hluboce. Jejich životní zážitky, které jsem takto poznal, mě naučily obdivovat se vynikajícím vlastnostem některých lidí a odsuzovat nectnosti jiných.

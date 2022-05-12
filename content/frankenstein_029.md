@@ -1,5 +1,6 @@
 ---
 title: Kapitola 21
+contentType: prose
 ---
 
 Za chvíli mě předvedli před soudce, starého, laskavě vyhlížejícího muže klidného a mírného vystupování. Přesto na mě přísně po­hlédl, pak se obrátil k mužům, kteří mě přivedli, a zeptal se jich, kdo se hlásí za svědka.

@@ -1,5 +1,6 @@
 ---
 title: Kapitola 13
+contentType: prose
 ---
 
 Budu teď pokračovat rychleji, tato část mého příběhu je velmi dojemná. Budu ti vyprávět o událostech, které ze mě udělaly to, čím jsem teď.

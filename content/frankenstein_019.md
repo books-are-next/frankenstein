@@ -1,5 +1,6 @@
 ---
 title: Kapitola 11
+contentType: prose
 ---
 
 Na počáteční údobí své existence se jen velmi těžko rozpomínám a všechny tehdejší zážitky se mi vybavují jen zastřeny v mlžném nezřetelném světle. Tehdy mě zaplavila prazvláštní směs vjemů a já jsem současně viděl, slyšel a čichal, a trvalo vlastně velmi dlouho, než jsem se naučil rozeznávat činnost jednotlivých smyslů. Vzpomínám si, že mě začalo postupně zaplavovat silné světlo, a to mě donutilo zavřít oči. Vtom mě zahalila nepříjemná tma. Sotva jsem si ji uvědomil, něco mě donutilo rychle otevřít oči a světlo mě znovu zalilo. Udělal jsem první krok a mám pocit, že jsem scházel dolů a náhle jsem pocítil jakousi změnu. Předtím mi připadalo, že mě obklopuje temná neprůsvitná hmota nepochopitelná mému zraku i hmatu, jenže teď jsem zjistil, že mohu podle své chuti jít dál a že není překážek, které bych nemohl obejít anebo překročit. Světlo mě stále víc a víc obtěžovalo, a protože mi při chůzi bylo stále větší teplo, hledal jsem místo, kde bych našel stín. Našel jsem je v lese nedaleko Ingolstadtu. Lehl jsem si tam u potůčku na břeh, abych si odpočinul, a tam jsem zůstal, dokud mě nezačaly trápit hlad a žízeň. Tyto pocity mě vyburcovaly z ospalosti. Na větvích stromů a na zemi jsem našel jakési bobule, několik jsem jich snědl a tak zahnal hlad. Žízeň jsem uhasil v potoce, znovu jsem ulehl a přemohl mě spánek.

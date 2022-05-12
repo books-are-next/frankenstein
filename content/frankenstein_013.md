@@ -1,5 +1,6 @@
 ---
 title: Kapitola 5
+contentType: prose
 ---
 
 Jedné smutné listopadové noci jsem se dožil dokončení svých snah. S úzkostí, která téměř hraničila s agónií, naskládal jsem kolem sebe životodárné přístroje, abych mohl vdechnout jiskru života do neživé hmoty, která mi ležela u nohou. Byla jedna hodina po půlnoci, déšť bubnoval neutěšeně do oken a svíčka již dohořívala, když za posledního záblesku světla jsem spatřil, jak můj výtvor otevřel matně žluté oko. Jeho dech byl těžký a údy se mu křečovitě zmítaly.

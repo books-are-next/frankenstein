@@ -1,5 +1,6 @@
 ---
 title: Kapitola 22
+contentType: prose
 ---
 
 Plavba skončila, přistáli jsme a pokračovali v cestě do Paříže. Brzy jsem zjistil, že jsem přecenil své síly a že si před další cestou musím odpočinout. Otec byl ve své péči a pozornostech neúnavný. Protože však neznal příčinu mého utrpení, používal k nápravě nevyléčitelné choroby chybných metod. Vybízel mě, abych chodil do společnosti, a já se děsil lidských tváří! Ne, vlastně neděsil, byly to tváře mých bratrů, mých bližních, a dokonce jsem cítil, jak i nejodpornější z nich mě přitahuje, ale neměl jsem právo se s nimi stýkat. Pustil jsem mezi ně nepřítele, jehož potěšením bylo prolévat jejich krev a radovat se z jejich nářku. Kdyby lidé znali mé rouhačské skutky a zločiny, každý z nich by mě nenáviděl a odháněl od sebe.

@@ -1,5 +1,6 @@
 ---
 title: Deník kapitána Waltona, pokračování
+contentType: prose
 ---
 
 _26\. srpna 17…_

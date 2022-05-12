@@ -1,5 +1,6 @@
 ---
 title: Kapitola 20
+contentType: prose
 ---
 
 Jednoho večera jsem seděl v laboratoři, slunce již zapadlo a nad mořem právě vycházel měsíc. Již se stmívalo, a proto jsem zůstal nečinně sedět a uvažoval, zda mám na dnešek nechat práce, nebo pilně pokračovat a tak uspíšit její ukončení. Jak jsem seděl, začal jsem znovu přemýšlet o tom, co se stane a jaký výsledek bude mít má nynější námaha. Před třemi lety jsem se zabýval stejným problémem a vytvořil jsem zlosyna, jehož nesrovnatelná surovost mi zlomila srdce a navždy je naplnila nejtrpčími výčitkami. Nyní jsem se chystal vytvořit nového tvora, jeho družku, o jejíž povaze jsem rovněž nic nevěděl. Mohla být deset tisíckrát horší než její druh a libovat si v samoúčelném vraždění a ubližovat lidem. On přísahal, že opustí lidskou společnost a bude se ukrývat v pustinách. Ona však nepřísahala. Ona, která se také s veškerou pravděpodobností stane myslícím a uvažujícím tvorem, by mohla odmítnout podřídit se dohodě uzavřené před jejím vznikem. Oba by se také mohli navzájem nenávidět. Ten, který už žije, proklíná svou ohyzdnost. Nemohl by se jí tedy ještě více děsit, až se mu objeví před očima v ženské podobě? Také ona by se mohla od něho s odporem odvrátit a přiklonit se k lidské kráse, mohla by ho opustit, a on by byl zase sám, rozlícen novou urážkou – být opuštěn tvorem vlastního rodu.
