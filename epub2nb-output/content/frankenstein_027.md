@@ -1,5 +1,6 @@
 ---
 title: Kapitola 19
+contentType: prose
 ---
 
 V Londýně jsme si hodlali odpočinout a rozhodli jsme se, že v tomto krásném a slavném městě strávíme několik měsíců. Clerval toužil po seznámení s vynikajícími osobnostmi, které tehdy v Londýně žily, ale mně na nich nezáleželo. Zajímal mě především způsob, jak získat informace nutné pro splnění svého slibu, a proto jsem rychle rozeslal doporučující dopisy, které jsem si přivezl a které byly určeny nejvýznamnějším anglickým přírodovědcům.

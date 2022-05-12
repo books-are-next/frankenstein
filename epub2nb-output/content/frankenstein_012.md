@@ -1,5 +1,6 @@
 ---
 title: Kapitola 4
+contentType: prose
 ---
 
 Od toho dne zabralo studium přírodních věd, a obzvláště chemie v nejširším slova smyslu, téměř všechen můj čas. Horlivě jsem četl všechna geniální a vynikající díla současných vědců, navštěvoval přednášky a stýkal se s universitními badateli. A dokonce jsem zjistil, že profesor Krempe má přes nepříjemný vzhled a vystupování značné vědomosti a opravdový rozhled. V profesoru Waldmanovi jsem nalezl přítele. Jeho vlídnost nebyla nikdy zabarvena shovívavostí a své rady udílel tak upřímně a srdečně, že to vylučovalo jakoukoli představu pedantství. Urovnával mi tisíci způsoby cestu k vědění a dovedl mi přiblížit a objasnit nejnesrozumitelnější problémy. Zprvu jsem se studiu věnoval povrchně a bez zvláštního nadšení, postupně jsem se však víc a víc do studia zabíral a brzy jsem studoval tak horlivě a vášnivě, že často hvězdy bledly v ranním světle a já dosud pracoval v laboratoři.

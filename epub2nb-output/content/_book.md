@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Frankenstein
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - frankenstein_002.html
+  - promo.html
   - frankenstein_005.html
   - frankenstein_006.html
   - frankenstein_007.html

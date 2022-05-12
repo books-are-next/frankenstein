@@ -1,5 +1,6 @@
 ---
 title: Kapitola 8
+contentType: prose
 ---
 
 Strávili jsme několik smutných hodin až do jedenácti, kdy mělo začít přelíčení. Otec a ostatní členové rodiny se museli k soudu dostavit jako svědkové, a proto jsem je tam doprovodil. Pohled na tento odporný výsměch spravedlnosti mi přinesl nadlidské utrpení. Padne tedy rozhodnutí, zda výsledek mé zvídavosti a zvrácených úvah nejen zavinil smrt líbezného dítěte plného nevinnosti a radosti, nýbrž zda připraví ještě strašnější konec dalšímu člověku a zavalí ho veškerou tíhou hanby, kterou s sebou nese hrůza vraždy. Justýna byla ušlechtilá a měla mnoho vlastností, které jí slibovaly šťastný život. A to vše by mělo být zničeno v potupném hrobu, a příčinou všech běd jsem byl já! Tisíckrát raději bych na sebe vzal vinu za zločin, přisouzený Justýně. Ale v době, kdy byl spáchán, jsem nebyl v Ženevě, a moje prohlášení by bylo považováno za nepříčetný výmysl a nebylo by zprostilo viny tu, která trpí mou zásluhou.

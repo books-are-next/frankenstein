@@ -45,7 +45,7 @@
         "filename": "frankenstein_002.md",
         "xhtml": "frankenstein_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -413,7 +413,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Mary Shelleyová",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T08:07:21.978Z"
+      "modified": "2020-01-21T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -697,6 +697,6 @@
       "user": "books-are-next",
       "repo": "frankenstein"
     },
-    "generatedAt": 1638432442507
+    "generatedAt": 1652351290131
   }
 }

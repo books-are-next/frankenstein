@@ -1,5 +1,6 @@
 ---
 title: Kapitola 9
+contentType: prose
 ---
 
 Pro člověka není snad nic bolestnějšího, než upadne-li jeho mysl po prudkém vznětu citů, vyvolaném překotným vývojem událostí, do mrtvého nečinného klidu. V něm spočívá jistota, která zbavuje duši naděje i strachu. Justýna zemřela – odpočívala věčným spánkem, a já žil. Krev mi volně proudila, ale hluboké zoufalství a kruté výčitky mi tísnily srdce a pevně v něm utkvěly. Spánek se vyhýbal mým očím a já jsem bloudil jako duch, protože jsem spáchal nepopsatelně strašné zločinné skutky, po nichž přijdou ještě další (jak jsem si namlouval). A přece mi srdce přetékalo ušlechtilou láskou k ctnosti. Vstoupil jsem do života s úmyslem konat jen dobro a prahl jsem po okamžiku, kdy budu moci své sny uskutečnit a stát se užitečným lidstvu. A teď bylo všechno zmařeno: místo čistého svědomí, které by mi dovolovalo spokojeně se ohlédnout na minulost a načerpat z ní přísliby nových nadějí, zmocnily se mě výčitky a pocit viny a zaháněly mě do pekla bolestných muk, jaká ani nelze slovy vyjádřit.

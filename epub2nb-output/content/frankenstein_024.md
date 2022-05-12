@@ -1,5 +1,6 @@
 ---
 title: Kapitola 16
+contentType: prose
 ---
 
 Prokletý, třikrát prokletý stvořiteli! Proč jsem žil? Proč jsem v oné chvíli nezhasl jiskru života, jíž jsi mě tak zbytečně obdařil? Nevím, nezmocnilo se mě ještě zoufalství a mou jedinou myšlenkou byl hněv a touha po pomstě. Nejraději bych zničil domek i jeho obyvatele a jejich sténání a utrpení by mě naplnilo blahým uspokojením.

@@ -1,21 +1,56 @@
 {
-  "author": "Mary Shelleyová",
-  "edition": "beletrie",
-  "identifier": "shelleyova-frankenstein-f41deea",
-  "languagecode": "cs",
-  "modified": "2021-08-29T17:56:13.154Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Frankenstein",
-  "revision": "f41deea",
+  "author": "Mary Shelleyová",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "shelleyova-frankenstein-f7762d4",
+  "revision": "f7762d4",
+  "readingOrder": [
+    "promo.html",
+    "frankenstein_005.html",
+    "frankenstein_006.html",
+    "frankenstein_007.html",
+    "frankenstein_008.html",
+    "frankenstein_009.html",
+    "frankenstein_010.html",
+    "frankenstein_011.html",
+    "frankenstein_012.html",
+    "frankenstein_013.html",
+    "frankenstein_014.html",
+    "frankenstein_015.html",
+    "frankenstein_016.html",
+    "frankenstein_017.html",
+    "frankenstein_018.html",
+    "frankenstein_019.html",
+    "frankenstein_020.html",
+    "frankenstein_021.html",
+    "frankenstein_022.html",
+    "frankenstein_023.html",
+    "frankenstein_024.html",
+    "frankenstein_025.html",
+    "frankenstein_026.html",
+    "frankenstein_027.html",
+    "frankenstein_028.html",
+    "frankenstein_029.html",
+    "frankenstein_030.html",
+    "frankenstein_031.html",
+    "frankenstein_032.html",
+    "frankenstein_033.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 08:08:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638432508969
+    "date": "Thu May 12 2022 10:35:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351756324
   },
   "documents": [
     {
-      "title": "Frankenstein",
-      "file": "frankenstein_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +58,17 @@
       "order": 0,
       "prev": null,
       "next": "frankenstein_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Dopis I • Frankenstein",
+      "title": "Dopis I",
       "file": "frankenstein_005.html",
       "words": 1045,
       "chars": 6364,
       "ideas": 14,
       "role": "chapter",
       "order": 1,
-      "prev": "frankenstein_002.html",
+      "prev": "promo.html",
       "next": "frankenstein_006.html",
       "toc": [
         {
@@ -54,7 +81,7 @@
       ]
     },
     {
-      "title": "Dopis II • Frankenstein",
+      "title": "Dopis II",
       "file": "frankenstein_006.html",
       "words": 1112,
       "chars": 6741,
@@ -74,7 +101,7 @@
       ]
     },
     {
-      "title": "Dopis III • Frankenstein",
+      "title": "Dopis III",
       "file": "frankenstein_007.html",
       "words": 256,
       "chars": 1530,
@@ -94,7 +121,7 @@
       ]
     },
     {
-      "title": "Dopis IV • Frankenstein",
+      "title": "Dopis IV",
       "file": "frankenstein_008.html",
       "words": 2374,
       "chars": 14344,
@@ -114,7 +141,7 @@
       ]
     },
     {
-      "title": "Kapitola 1 • Frankenstein",
+      "title": "Kapitola 1",
       "file": "frankenstein_009.html",
       "words": 1455,
       "chars": 8905,
@@ -134,7 +161,7 @@
       ]
     },
     {
-      "title": "Kapitola 2 • Frankenstein",
+      "title": "Kapitola 2",
       "file": "frankenstein_010.html",
       "words": 1862,
       "chars": 11815,
@@ -154,7 +181,7 @@
       ]
     },
     {
-      "title": "Kapitola 3 • Frankenstein",
+      "title": "Kapitola 3",
       "file": "frankenstein_011.html",
       "words": 2174,
       "chars": 13678,
@@ -174,7 +201,7 @@
       ]
     },
     {
-      "title": "Kapitola 4 • Frankenstein",
+      "title": "Kapitola 4",
       "file": "frankenstein_012.html",
       "words": 2047,
       "chars": 12663,
@@ -194,7 +221,7 @@
       ]
     },
     {
-      "title": "Kapitola 5 • Frankenstein",
+      "title": "Kapitola 5",
       "file": "frankenstein_013.html",
       "words": 1953,
       "chars": 11598,
@@ -214,7 +241,7 @@
       ]
     },
     {
-      "title": "Kapitola 6 • Frankenstein",
+      "title": "Kapitola 6",
       "file": "frankenstein_014.html",
       "words": 2178,
       "chars": 13548,
@@ -234,7 +261,7 @@
       ]
     },
     {
-      "title": "Kapitola 7 • Frankenstein",
+      "title": "Kapitola 7",
       "file": "frankenstein_015.html",
       "words": 2908,
       "chars": 17609,
@@ -254,7 +281,7 @@
       ]
     },
     {
-      "title": "Kapitola 8 • Frankenstein",
+      "title": "Kapitola 8",
       "file": "frankenstein_016.html",
       "words": 2494,
       "chars": 15170,
@@ -274,7 +301,7 @@
       ]
     },
     {
-      "title": "Kapitola 9 • Frankenstein",
+      "title": "Kapitola 9",
       "file": "frankenstein_017.html",
       "words": 1896,
       "chars": 11509,
@@ -294,7 +321,7 @@
       ]
     },
     {
-      "title": "Kapitola 10 • Frankenstein",
+      "title": "Kapitola 10",
       "file": "frankenstein_018.html",
       "words": 1849,
       "chars": 11299,
@@ -314,7 +341,7 @@
       ]
     },
     {
-      "title": "Kapitola 11 • Frankenstein",
+      "title": "Kapitola 11",
       "file": "frankenstein_019.html",
       "words": 2299,
       "chars": 13533,
@@ -334,7 +361,7 @@
       ]
     },
     {
-      "title": "Kapitola 12 • Frankenstein",
+      "title": "Kapitola 12",
       "file": "frankenstein_020.html",
       "words": 1671,
       "chars": 10145,
@@ -354,7 +381,7 @@
       ]
     },
     {
-      "title": "Kapitola 13 • Frankenstein",
+      "title": "Kapitola 13",
       "file": "frankenstein_021.html",
       "words": 1698,
       "chars": 10275,
@@ -374,7 +401,7 @@
       ]
     },
     {
-      "title": "Kapitola 14 • Frankenstein",
+      "title": "Kapitola 14",
       "file": "frankenstein_022.html",
       "words": 1402,
       "chars": 8531,
@@ -394,7 +421,7 @@
       ]
     },
     {
-      "title": "Kapitola 15 • Frankenstein",
+      "title": "Kapitola 15",
       "file": "frankenstein_023.html",
       "words": 2503,
       "chars": 15390,
@@ -414,7 +441,7 @@
       ]
     },
     {
-      "title": "Kapitola 16 • Frankenstein",
+      "title": "Kapitola 16",
       "file": "frankenstein_024.html",
       "words": 2604,
       "chars": 15286,
@@ -434,7 +461,7 @@
       ]
     },
     {
-      "title": "Kapitola 17 • Frankenstein",
+      "title": "Kapitola 17",
       "file": "frankenstein_025.html",
       "words": 1560,
       "chars": 9159,
@@ -454,7 +481,7 @@
       ]
     },
     {
-      "title": "Kapitola 18 • Frankenstein",
+      "title": "Kapitola 18",
       "file": "frankenstein_026.html",
       "words": 2223,
       "chars": 13411,
@@ -474,7 +501,7 @@
       ]
     },
     {
-      "title": "Kapitola 19 • Frankenstein",
+      "title": "Kapitola 19",
       "file": "frankenstein_027.html",
       "words": 2159,
       "chars": 13245,
@@ -494,7 +521,7 @@
       ]
     },
     {
-      "title": "Kapitola 20 • Frankenstein",
+      "title": "Kapitola 20",
       "file": "frankenstein_028.html",
       "words": 2842,
       "chars": 16786,
@@ -514,7 +541,7 @@
       ]
     },
     {
-      "title": "Kapitola 21 • Frankenstein",
+      "title": "Kapitola 21",
       "file": "frankenstein_029.html",
       "words": 2792,
       "chars": 16797,
@@ -534,7 +561,7 @@
       ]
     },
     {
-      "title": "Kapitola 22 • Frankenstein",
+      "title": "Kapitola 22",
       "file": "frankenstein_030.html",
       "words": 2716,
       "chars": 16283,
@@ -554,7 +581,7 @@
       ]
     },
     {
-      "title": "Kapitola 23 • Frankenstein",
+      "title": "Kapitola 23",
       "file": "frankenstein_031.html",
       "words": 2003,
       "chars": 11873,
@@ -574,7 +601,7 @@
       ]
     },
     {
-      "title": "Kapitola 24 • Frankenstein",
+      "title": "Kapitola 24",
       "file": "frankenstein_032.html",
       "words": 2170,
       "chars": 12758,
@@ -594,7 +621,7 @@
       ]
     },
     {
-      "title": "Deník kapitána Waltona, pokračování • Frankenstein",
+      "title": "Deník kapitána Waltona, pokračování",
       "file": "frankenstein_033.html",
       "words": 4283,
       "chars": 25821,
@@ -614,11 +641,11 @@
       ]
     },
     {
-      "title": "Tiráž • Frankenstein",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 147,
-      "chars": 989,
-      "ideas": 24,
+      "words": 127,
+      "chars": 831,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "frankenstein_033.html",
@@ -636,9 +663,9 @@
   ],
   "totals": {
     "all": {
-      "words": 60680,
-      "chars": 367093,
-      "ideas": 819
+      "words": 60660,
+      "chars": 366935,
+      "ideas": 813
     },
     "chapters": {
       "words": 60528,

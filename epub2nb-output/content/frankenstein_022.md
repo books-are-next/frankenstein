@@ -1,5 +1,6 @@
 ---
 title: Kapitola 14
+contentType: prose
 ---
 
 Teprve po delším čase jsem se seznámil s příběhem svých přátel. Zapůsobil na mě silným dojmem, protože mi objevil nový svět s neznámými okolnostmi, které mně – byl jsem tehdy nezkušený – připadaly zajímavé a fascinující.

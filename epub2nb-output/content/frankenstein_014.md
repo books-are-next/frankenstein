@@ -1,5 +1,6 @@
 ---
 title: Kapitola 6
+contentType: prose
 ---
 
 Clerval mi vložil do ruky dopis. Byl od Alžběty.

@@ -1,5 +1,6 @@
 ---
 title: Kapitola 7
+contentType: prose
 ---
 
 Po návratu jsem našel dopis od otce:

@@ -1,5 +1,6 @@
 ---
 title: Dopis IV
+contentType: prose
 ---
 
 PANÍ SAVILLOVÉ, ANGLIE

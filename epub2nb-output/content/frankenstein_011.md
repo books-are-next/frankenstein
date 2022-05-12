@@ -1,5 +1,6 @@
 ---
 title: Kapitola 3
+contentType: prose
 ---
 
 Když mi bylo sedmnáct let, rozhodli rodiče, že mám pokračovat ve studiích na universitě v Ingolstadtu. Až dosud jsem navštěvoval ženevské školy, ale otec považoval za nutné, abych svou výchovu doplnil dalšími vědomostmi, které jsem nemohl získat ve vlasti. Můj odjezd byl stanoven na nejbližší dobu, jenže než přišel určený den, událo se první neštěstí mého života – osudná předzvěst budoucího utrpení.

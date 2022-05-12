@@ -1,5 +1,6 @@
 ---
 title: Kapitola 24
+contentType: prose
 ---
 
 Na nic jsem tehdy nemohl myslet, všechno pohltila nenávist. Jedině touha po pomstě mi dodávala sílu a rozvahu, stmelovala mé myšlenky a způsobovala, že jsem dokázal být klidný a rozvážný v době, kdy jinak by mým údělem byly šílenství nebo smrt.

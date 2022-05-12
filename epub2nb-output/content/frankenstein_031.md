@@ -1,5 +1,6 @@
 ---
 title: "Kapitola\_23"
+contentType: prose
 ---
 
 Přistáli jsme kolem osmé. Chvíli jsme se procházeli po břehu v příjemném soumraku a pak jsme se odebrali do hostince, odkud byl výhled na překrásné jezero lemované lesy a horami, jejichž černé obrysy se vzdor tmě dosud odrážely od noční oblohy.

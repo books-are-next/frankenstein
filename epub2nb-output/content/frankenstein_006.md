@@ -1,5 +1,6 @@
 ---
 title: Dopis II
+contentType: prose
 ---
 
 PANÍ SAVILLOVÉ, ANGLIE
