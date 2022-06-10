@@ -3,6 +3,8 @@ title: Kapitola 15
 contentType: prose
 ---
 
+<section>
+
 Takový byl příběh mých přátel. Dojal mě hluboce. Jejich životní zážitky, které jsem takto poznal, mě naučily obdivovat se vynikajícím vlastnostem některých lidí a odsuzovat nectnosti jiných.
 
 Do té doby jsem považoval zločin za vzdálené zlo. Dobrotivost a šlechetnost, které jsem měl neustále před očima, vzbuzovaly ve mně touhu stát se účastníkem rušného života, jehož četné obdivuhodné příběhy se přede mnou bohatě rozvíjely. Když však popisuji, jak se mé znalosti stále víc a více prohlubovaly, nesmím zapomenout na závažnou událost, k níž došlo začátkem srpna.
@@ -78,3 +80,5 @@ Zarazil jsem se. Teď nadešla rozhodná chvíle, pomyslil jsem si; buď mě nav
 „Panebože!“ zvolal stařec. „Kdo jste?“
 
 Vtom se otevřely dveře a Felix, Safie a Agáta vešli do domu. Lze vůbec vylíčit, jak byli ohromeni a zděšeni, když mě spatřili? Agáta omdlela a Safie, neschopna přiskočit přítelkyni na pomoc, utekla. Felix vyrazil proti mně, nadlidskou silou mě odtrhl od otce, k jehož nohám jsem se přimkl, v záchvatu zuřivosti mě srazil k zemi a prudce mě udeřil holí. Byl bych ho dokázal roztrhat na kusy jako lev antilopu. Ale srdce mi sevřela hořká bolest a já se opanoval. Spatřil jsem, jak zdvihá ruku k dalšímu úderu, a přemožen bolestí a úzkostí jsem vyběhl z domku a ve všeobecném zmatku unikl nezpozorován do své kůlny.
+
+</section>

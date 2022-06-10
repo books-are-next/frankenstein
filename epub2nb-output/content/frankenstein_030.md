@@ -3,6 +3,8 @@ title: Kapitola 22
 contentType: prose
 ---
 
+<section>
+
 Plavba skončila, přistáli jsme a pokračovali v cestě do Paříže. Brzy jsem zjistil, že jsem přecenil své síly a že si před další cestou musím odpočinout. Otec byl ve své péči a pozornostech neúnavný. Protože však neznal příčinu mého utrpení, používal k nápravě nevyléčitelné choroby chybných metod. Vybízel mě, abych chodil do společnosti, a já se děsil lidských tváří! Ne, vlastně neděsil, byly to tváře mých bratrů, mých bližních, a dokonce jsem cítil, jak i nejodpornější z nich mě přitahuje, ale neměl jsem právo se s nimi stýkat. Pustil jsem mezi ně nepřítele, jehož potěšením bylo prolévat jejich krev a radovat se z jejich nářku. Kdyby lidé znali mé rouhačské skutky a zločiny, každý z nich by mě nenáviděl a odháněl od sebe.
 
 Otec nakonec ustoupil a já se mohl stranit společnosti. Snažil se však zahnat mé zoufalství nejrůznějšími argumenty. Jednou si myslil, že mě hluboce pokořila skutečnost, že jsem byl obviněn z vraždy, a pokusil se mi dokázat, jak marná je pýcha.
@@ -21,7 +23,9 @@ Poslední slova přesvědčila otce o zmatení mé mysli. Ihned změnil předm�
 
 Několik dní před odjezdem z Paříže do Švýcarska jsem obdržel dopis od Alžběty.
 
-  
+</section>
+
+<section>
 
 „Milý příteli,
 
@@ -83,3 +87,5 @@ Tak jemně se Alžběta snažila odvrátit své i mé myšlenky od všech úvah
 Slunce se sklánělo k obzoru. Pluli jsme kolem ústí řeky Drance a dívali jsme se, jak si její tok prodírá cestu roklemi vysokých hor a nízkými údolími mezi kopci. Alpy se zde přibližují k břehu jezera a my jsme byli blízko horského amfiteátru tvořícího jeho východní hranici. Věž evianského kostela čněla nad lesem a v pozadí se tyčil řetěz hor.
 
 Vítr, který nás až dosud hnal překvapující rychlostí, změnil se při západu slunce v lehký větřík. Vlahé závany vzduchu slabě čeřily hladinu a jemně pohybovaly větvemi stromů, když jsme se blížili ke břehu, od něhož se k nám nesla lahodná vůně květin a sena. Přistáli jsme a slunce zapadlo. V okamžiku, kdy jsme vkročili na břeh, pocítil jsem, jak ve mně opět oživují obavy a strach. Netušil jsem, jak se mě zakrátko zmocní a navždy mě spoutají.
+
+</section>

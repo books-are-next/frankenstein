@@ -3,6 +3,8 @@ title: Dopis III
 contentType: prose
 ---
 
+<section>
+
 PANÍ SAVILLOVÉ, ANGLIE
 
 _7\. července 17…_
@@ -20,3 +22,5 @@ Ale úspěch _bude_ korunovat mé snahy. Proč ne? Už jsem doplul až sem a pr
 A tak jsem Ti bezděčně otevřel své překypující srdce! Ale musím končit. Nechť nebe požehná mé milované sestře!
 
 R. W.
+
+</section>

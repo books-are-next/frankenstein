@@ -3,6 +3,8 @@ title: Kapitola 19
 contentType: prose
 ---
 
+<section>
+
 V Londýně jsme si hodlali odpočinout a rozhodli jsme se, že v tomto krásném a slavném městě strávíme několik měsíců. Clerval toužil po seznámení s vynikajícími osobnostmi, které tehdy v Londýně žily, ale mně na nich nezáleželo. Zajímal mě především způsob, jak získat informace nutné pro splnění svého slibu, a proto jsem rychle rozeslal doporučující dopisy, které jsem si přivezl a které byly určeny nejvýznamnějším anglickým přírodovědcům.
 
 Kdyby k této cestě bylo došlo v šťastných dobách mého studia, byla by mi poskytla nevýslovnou radost. Ale můj život byl zasažen snětí a já jsem jednotlivé vědce vyhledal jen proto, abych od nich získal přehled o stavu jejich bádání a informace o nových objevech, které pro mou práci byly nezbytné. Společnost mi vadila a jen o samotě jsem se mohl věnovat věcem pozemským a nepozemským, neboť Jindřichův hlas mi dodával útěchy a já jsem se tak mohl oddat klamu přechodného klidu. Ale všetečné, nudné a veselé obličeje mi opět vnášely do srdce zoufalství. Viděl jsem, jak mezi mnou a mými bližními je nepřekonatelná přehrada, zpečetěná Vilémovou a Justýninou krví, a přemýšlení o událostech spjatých s těmito jmény mi naplňovalo duši strachem.
@@ -46,3 +48,5 @@ Takovým způsobem jsem dělil svůj čas ze začátku, ale postupně se mi prá
 V takovém postavení, zabrán do nesmírně odporné práce a pohřížen do samoty, v níž mě ani na okamžik nemohlo nic odtrhnout od hrozné současnosti, začala se mi občas kalit mysl, stával jsem se neklidným a nervózním. Každou chvíli jsem měl strach, že se setkám se svým pronásledovatelem. Občas jsem seděl s očima upřenýma k zemi a bál jsem se je pozdvihnout, abych snad nezahlédl postavu, které jsem se tolik děsil. Obával jsem se také odejít z dohledu ostrovanů, abych se neoctl sám a aby on nepřišel domáhat se své družky.
 
 Nepřestával jsem pracovat a dosáhl jsem už značných výsledků. Hleděl jsem vstříc ukončení své práce s chvějící se dychtivou nadějí, o níž jsem se neodvážil pochybovat, ale která byla prostoupena chmurnými předtuchami zla, jež mi svíraly srdce v hrudi.
+
+</section>

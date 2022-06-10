@@ -3,6 +3,8 @@ title: Kapitola 13
 contentType: prose
 ---
 
+<section>
+
 Budu teď pokračovat rychleji, tato část mého příběhu je velmi dojemná. Budu ti vyprávět o událostech, které ze mě udělaly to, čím jsem teď.
 
 Jaro rychle postupovalo, počasí bylo překrásné, obloha bez jediného mráčku. Pln překvapení jsem sledoval, jak to, co bylo dříve opuštěné a chmurné, rozkvétá teď překrásnými květinami a zelení. Tisíce lahodných vůní a krásných pohledů oblažovalo a osvěžovalo mou mysl.
@@ -44,3 +46,5 @@ Jak zvláštní povahu mají vědomosti! Jakmile se jednou v mysli usídlí poz
 Ale kde jsem já měl přátele a příbuzné? Žádný otec nesledoval dny mého dětství, žádná matka mě neobšťastňovala úsměvy a laskáním, a jestliže tomu snad přece jen bylo, pak všechen můj minulý život byl vymazán a mně zůstala slepá prázdnota, v níž jsem nic nerozeznával. Pokud jsem si pamatoval, byl jsem vždy stejně velký a silný. Nikdy jsem nespatřil tvora, který by se mi podobal nebo který by si přál setkat se se mnou. Co jsem vlastně byl? Opět mi tato otázka vytanula na mysli a já ji mohl zodpovědět pouze zasténáním.
 
 Brzy ti vysvětlím, kterým směrem se tyto mé myšlenky ubíraly, dovol mi však teď, abych se vrátil ke svým přátelům. Jejich příběh ve mně vzbudil nejrůznější city, jako pohoršení, radost a úžas. Všechny však vyvrcholily v ještě větší lásce a úctě k nim, mým ochráncům (neboť tak jsem je nejraděj i ve svém nevinném, napůl bolestném sebeklamu nazýval).
+
+</section>

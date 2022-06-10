@@ -3,6 +3,8 @@ title: Kapitola 8
 contentType: prose
 ---
 
+<section>
+
 Strávili jsme několik smutných hodin až do jedenácti, kdy mělo začít přelíčení. Otec a ostatní členové rodiny se museli k soudu dostavit jako svědkové, a proto jsem je tam doprovodil. Pohled na tento odporný výsměch spravedlnosti mi přinesl nadlidské utrpení. Padne tedy rozhodnutí, zda výsledek mé zvídavosti a zvrácených úvah nejen zavinil smrt líbezného dítěte plného nevinnosti a radosti, nýbrž zda připraví ještě strašnější konec dalšímu člověku a zavalí ho veškerou tíhou hanby, kterou s sebou nese hrůza vraždy. Justýna byla ušlechtilá a měla mnoho vlastností, které jí slibovaly šťastný život. A to vše by mělo být zničeno v potupném hrobu, a příčinou všech běd jsem byl já! Tisíckrát raději bych na sebe vzal vinu za zločin, přisouzený Justýně. Ale v době, kdy byl spáchán, jsem nebyl v Ženevě, a moje prohlášení by bylo považováno za nepříčetný výmysl a nebylo by zprostilo viny tu, která trpí mou zásluhou.
 
 Justýna se tvářila klidně. Byla ve smutku a hluboké utrpení ještě více zkrásnělo její půvabný obličej. Výraz její tváře vyjadřoval přesvědčení o nevině. Ani se nezachvěla, ačkoli na ni hledělo mnoho lidí a zatracovalo ji. Za jiných okolností by její krása vyvolávala dojetí či obdiv, ale dnes převládala v myslích diváků představa hrůzného činu, kterého se údajně dopustila. Justýna byla klidná, ale její klid byl zřejmě vynucený, a protože její předešlý zmatek byl považován za důkaz viny, přiměla se k výraznému vystupování. Po příchodu do soudní síně se rychle rozhlédla, aby zjistila, kde sedíme. Když nás spatřila, zableskla se jí v oku slza, rychle se však opanovala a výraz bolestné lásky jako by svědčil o její úplné nevině.
@@ -66,3 +68,5 @@ Justýně se podařilo vyloudit na rtech radostný úsměv a jen s největší
 A příštího dne ráno byla Justýna popravena. Nejvášnivější Alžbětina výmluvnost nedokázala zvrátit pevné přesvědčení soudců o zločinu ubohé dívky. Ani má prudká a rozhořčená slova na ně nezapůsobila. Jejich odpovědi byly chladné a neúčastné, a když jsem vyslechl jejich příkré, bezcitné úvahy, zemřelo mi na rtech i chystané doznání. Byl bych je mohl přesvědčit jen o tom, že jsem šílenec, ale nebyl bych dosáhl odvolání rozsudku vyneseného nad nešťastnou obětí. Zemřela na popravišti, jako by byla vražedkyní.
 
 Nestačily mučivé bolesti vlastního srdce, musel jsem se obrátit k hlubokému a mlčenlivému zármutku své Alžběty. I to bylo mé dílo! Otcovo zoufalství a beznadějnost až dosud tak radostného domova – to vše bylo dílo mých třikrát proklatých rukou. Drásán výčitkami, hrůzou a zoufalstvím, jsem přihlížel, jak moji drazí bezmocně naříkají u hrobů Viléma a Justýny, prvních nešťastných obětí mých zlořečených vědomostí.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola 2
 contentType: prose
 ---
 
+<section>
+
 Byli jsme vychováni společně. Byl jsem pouze o necelý rok starší. Není třeba říkat, že jakákoli neshoda nebo dokonce hádka nám byly zcela cizí. Naše přátelství se vyznačovalo souladem a rozdílnost a kontrast našich povah nás ještě více sbližovaly. Alžběta byla klidnější a soustředěnější, já zase přes svou vášnivost jsem byl praktičtější a hlouběji zasažen touhou po vědění. Alžběta horlivě četla verše a v překrásné velebné krajině, která obklopovala náš švýcarský domov – vznešené obrysy hor, změny ročních období, bouře a klid, ticho zimy a kypící ruch našich alpských let –, nalézala široké pole pro obdiv a potěšení. Zatímco má společnice s vážnou a uspokojivou myslí pozorovala pozoruhodné výsledky jevů, já jsem se zalíbením zkoumal jejich příčiny. Svět byl pro mě tajemstvím, a to jsem toužil rozluštit. Zvídavost, vážná snaha osvojit si skryté zákony přírody, radost blížící se nadšení, když se mi odhalily, to všechno patří k mým prvním vzpomínkám.
 
 Po narození druhého syna, o sedm let mladšího, zanechali rodiče toulavého života a usadili se v rodném kraji. Měli jsme dům v Ženevě a vilu v Belrive, na východním břehu jezera ve vzdálenosti více než jedné míle za městem. Bydlili jsme převážně v Belrive a život v našem domově plynul v značné samotě. Mé povaze bylo vlastní vyhýbat se davu a dával jsem přednost pevnému přátelství s několika málo druhy. Spolužáci mi byli celkem lhostejní, s jedním z nich mě však pojila pouta nejužšího přátelství – s Jindřichem Clervalem, synem ženevského obchodníka. Byl to neobyčejně nadaný chlapec s velkou obrazotvorností. Miloval dobrodružství, překážky, ba dokonce nebezpečí – jen pro ně samo. Jeho nejoblíbenější četbou byly rytířské a dobrodružné romány. Skládal hrdinské písně a psal různé příběhy o čarodějích a rytířích. Hrával s námi divadelní hry a pořádal maškarní zábavy, v nichž vystupovaly postavy z Písně o Rolandovi, hrdinové Kulatého stolu krále Artuše i rytíři, kteří v bojích prolévali krev, aby osvobodili Svatý hrob z rukou nevěřících.
@@ -33,10 +35,14 @@ Tehdy jsem již byl obeznámen s obecnějšími zákony elektřiny. Onoho dne b
 
 Naše duše jsou opravdu podivně utvářeny a s úspěchem či zkázou jsme spjati vskutku slabými pouty. Ohlédnu-li se nazpět, připadá mi, jako by tato téměř zázračná změna zájmu a vůle byla náhlým důsledkem zásahu nebes, jako by to byl poslední pokus podniknutý pudem sebezáchovy k odvrácení bouře, která již tehdy visela ve hvězdách, připravena mě uchvátit. Od chvíle, kdy jsem zanechal svých dřívějších a v poslední době trýznivých studií, zvítězily v mé duši radost a klid. Bylo to varování, že další studium přírodních věd mi přinese zkázu; jestliže se ho však vzdám, kyne mi štěstí. Tento poslední pokus sil dobra byl neúčinný. Osud byl příliš mocný a jeho nezměnitelné zákony rozhodly o mé naprosté a hrozné zkáze.
 
-  
+</section>
+
+<section>
 
 [^2]: Přírodní filosofie je nauka, která byla pěstována v 16.–18. století, tedy v období, kdy se přírodovědeckými pokusy ještě nedaly vědecky vysvětlit četné přírodní jevy, jejich objektivní souvislosti a vzájemné závislosti.
 
 [^3]: Cornelius Heinrich Agrippa z Netesheimu (1486–1535), německý renesanční lékař a přírodní filosof vystupující ostře proti pověrám a víře v čarodějnice.
 
 [^4]: Theofrastus Bombastus Paracelsus z Hohenheimu (1493–1541), německý lékař, přírodní filosof a teolog; průkopník moderní lékařské vědy. Albertus Magnus (1193–1280), německý teolog a filosof zabývající se přírodovědnými otázkami.
+
+</section>

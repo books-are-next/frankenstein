@@ -2,18 +2,29 @@
 title: Tiráž
 ---
 
+<section>  
 **Mary Shelleyová    
 Frankenstein**  
+</section>  
+<section>  
 Edice Knížky do školy  
 Překlad Tomáš Korbař  
-Ilustrace na obálce Theodor von Holst/volné zdroje  
 Redakce Markéta Teuchnerová  
+</section>  
+<section>  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
+<section>  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+</section>  
+<section>  
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
+
+<section>
 
 Znění tohoto textu vychází z díla [Frankenstein](https://search.mlp.cz/cz/titul/frankenstein/2244842/) tak, jak bylo vydáno Lidovým nakladatelstvím v Praze v roce 1969. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
@@ -26,6 +37,10 @@ Text díla (Mary Shelleyová: Frankenstein), publikovaného [Městskou knihovno
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.png)
+
+</section>

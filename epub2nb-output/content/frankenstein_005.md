@@ -3,6 +3,8 @@ title: Dopis I
 contentType: prose
 ---
 
+<section>
+
 PANÍ SAVILLOVÉ, ANGLIE
 
 _Petrohrad 11. prosince 17…_
@@ -27,3 +29,5 @@ Sbohem, má drahá, ušlechtilá Margareto! Nechť Tě nebesa zahrnou požehnán
 
 Tvůj milující bratr  
 R. Walton
+
+</section>

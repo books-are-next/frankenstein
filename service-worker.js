@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-f7762d4';
+const CACHE = 'cache-8df2e1c';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./frankenstein_005.html","./frankenstein_006.html","./frankenstein_008.html","./frankenstein_009.html","./frankenstein_010.html","./frankenstein_011.html","./frankenstein_007.html","./frankenstein_012.html","./frankenstein_013.html","./frankenstein_014.html","./frankenstein_015.html","./frankenstein_016.html","./frankenstein_017.html","./frankenstein_018.html","./frankenstein_019.html","./frankenstein_020.html","./frankenstein_021.html","./frankenstein_022.html","./frankenstein_023.html","./frankenstein_024.html","./frankenstein_025.html","./frankenstein_026.html","./frankenstein_027.html","./frankenstein_028.html","./frankenstein_029.html","./frankenstein_030.html","./frankenstein_031.html","./frankenstein_032.html","./frankenstein_033.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_frankenstein_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./frankenstein_006.html","./frankenstein_007.html","./frankenstein_005.html","./frankenstein_009.html","./frankenstein_008.html","./frankenstein_010.html","./frankenstein_011.html","./frankenstein_012.html","./frankenstein_013.html","./frankenstein_014.html","./frankenstein_015.html","./frankenstein_017.html","./frankenstein_016.html","./frankenstein_018.html","./frankenstein_020.html","./frankenstein_019.html","./frankenstein_021.html","./frankenstein_022.html","./frankenstein_024.html","./frankenstein_025.html","./frankenstein_023.html","./frankenstein_026.html","./frankenstein_027.html","./frankenstein_028.html","./frankenstein_029.html","./frankenstein_030.html","./frankenstein_031.html","./frankenstein_032.html","./frankenstein_033.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_frankenstein_fmt.png","./resources/upoutavka_eknihy_fmt.png","./style/style.min.css","./scripts/bundle.js","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

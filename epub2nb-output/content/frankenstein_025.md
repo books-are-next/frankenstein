@@ -3,6 +3,8 @@ title: Kapitola 17
 contentType: prose
 ---
 
+<section>
+
 Domluvil a upřel na mě pohled plný očekávání. Jenže jsem byl zmaten a vyděšen a nedokázal jsem uspořádat myšlenky natolik, abych plně pochopil dosah jeho návrhu. Po chvíli pokračoval:
 
 „Musíš pro mě stvořit ženu, s kterou bych mohl žít a dělit se o ony pocity, jež jsou pro mě nezbytné. Něco takového můžeš dokázat jedině ty! Mám právo to na tobě žádat a ty mi to nesmíš odepřít!“
@@ -46,3 +48,5 @@ V hlavě se mi míhaly truchlivé a zmatené myšlenky a ani nelze vylíčit,
 Za úsvitu jsem dorazil do Chamonix. Bez odpočinku jsem se okamžitě vrátil do Ženevy.
 
 Octl jsem se v naprostém zmatení citů a připadal jsem si, jako bych na bedrech nesl horu, jejíž tíha pod sebou drtí celé mé zoufalství. V takovém stavu jsem se vrátil domů a předstoupil před rodinu. Můj divoký a rozháraný vzhled je vyděsil. Na jejich dotazy jsem zarytě mlčel a odmítal mluvit. Připadalo mi, jako bych byl v klatbě, jako bych neměl práva dovolávat se jejich lásky, jako bych se už nikdy nemohl těšit z jejich společnosti. Ale přesto jsem je miloval a zbožňoval, a abych je zachránil, rozhodl jsem se, že věnuji všechny síly onomu strašnému úkolu. Představa budoucí hrůzné práce způsobila, že mi každodenní povinnosti připadaly jako sen, a jedině myšlenka na mé dílo měla pro mě životní realitu.
+
+</section>

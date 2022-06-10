@@ -3,6 +3,8 @@ title: Kapitola 18
 contentType: prose
 ---
 
+<section>
+
 Den po dni a týden po týdnu plynuly po mém návratu do Ženevy a já nemohl sebrat odvahu, abych začal se svou prací. Ačkoli jsem se bál případné pomsty zklamaného netvora, nebyl jsem schopen překonat odpor k úkolu, který mi byl vnucen. Zjistil jsem, že nového tvora ženského pohlaví budu moci vytvořit jen tehdy, jestliže strávím mnoho měsíců podrobným studiem a pracným bádáním. Doslechl jsem se o jakýchsi objevech anglického přírodovědce, jejichž poznání by pro úspěch mé práce bylo podstatné, a zamýšlel jsem časem dosáhnout otcova souhlasu k cestě do Anglie. Přidržoval jsem se však každé zmínky odkladu a zdráhal jsem se podniknout prvý krok v záležitosti, jejíž naléhavost mi začala připadat stále méně nezbytnou. Také já jsem pocítil určitou změnu – můj až dosud celkem nevalný zdravotní stav se podstatně zlepšil, a měl jsem už mnohem klidnější mysl, pokud ji ovšem nepronásledovala vzpomínka na neblahý slib. Otec sledoval mou proměnu s radostí a všemi silami se snažil mě co nejvíce ochránit před občasnými záchvaty smutku, který se tu a tam náhle vracel, aby jako vše pohlcující černý mrak zastínil vycházející zářivé slunce. V takových chvílích jsem nalézal útočiště v naprosté samotě. Trávil jsem celé dny na jezeře sám ve člunu, pozoroval jsem mraky a naslouchal šumění vln, zamlklý a lhostejný. Svěží vzduch a sluneční paprsky mě však většinou uklidnily, a když jsem se vrátil, odpovídal jsem přátelům na jejich slova s úsměvem a veselejší náladou.
 
 Po návratu z jedné projížďky mě otec vzal stranou a řekl mi: „S potěšením zjišťuji, že ses opět vrátil k dřívějším zábavám a že se pomalu stáváš zase sám sebou. Ale občas jsi ještě nešťasten a vyhýbáš se naší společnosti. Dlouho jsem rozvažoval, proč tomu asi je, a teprve včera jsem dospěl k závěru. Jestliže je správný, neostýchej se ho potvrdit. Jakékoliv zdráhání nebo falešné zábrany by byly zbytečné a způsobily by nám ještě větší utrpení.“
@@ -44,3 +46,5 @@ Za Kolínem jsme dorazili do holandské nížiny a rozhodli jsme se pokračovat
 Na tomto úseku cesty už nebyla krajina tak krásná, aby poutala naši pozornost; několik dní nato jsme dojeli do Rotterdamu, odkud jsme se plavili do Anglie. Jednoho jasného rána koncem října jsem poprvé spatřil bílé útesy doverské. Břehy Temže nám ukázaly novou krajinu: byly ploché, ale úrodné, a téměř každé město bylo poznamenáno vzpomínkou na nějakou historickou událost. Spatřili jsme pevnost Tilbury a vzpomněli jsme si na španělskou Armadu. Gravesend, Woolwich a Greenwich byla místa, o nichž jsem slyšel dokonce ve své vlasti.
 
 A konečně jsme uviděli početné štíhlé londýnské věže. Nad všemi se tyčila kupole chrámu svatého Pavla a věž Toweru, tak proslaveného v dějinách Anglie.
+
+</section>

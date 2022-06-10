@@ -3,9 +3,13 @@ title: Kapitola 7
 contentType: prose
 ---
 
+<section>
+
 Po návratu jsem našel dopis od otce:
 
-  
+</section>
+
+<section>
 
 „Milý Viktore,
 
@@ -107,3 +111,5 @@ Byla tu stejná otevřenost, stejná živost, ale s nimi byly spojeny cit a in
 „Jak jsi hodný a šlechetný! Všichni ostatní věří v její vinu. A to mě velmi bolí, protože vím, že je to vyloučeno. A když jsem viděla, že všichni jsou tak neúprosně zaujatí, ztratila jsem naději a zoufala jsem si.“
 
 „Drahá Alžběto,“ řekl otec, „osuš si slzy. Jestliže je nevinná, jak věříš, pak se spolehni na spravedlnost našich zákonů. Postarám se, abych zabránil sebemenšímu stínu zaujatosti.“
+
+</section>
