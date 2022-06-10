@@ -3,6 +3,8 @@ title: Kapitola 16
 contentType: prose
 ---
 
+<section>
+
 Prokletý, třikrát prokletý stvořiteli! Proč jsem žil? Proč jsem v oné chvíli nezhasl jiskru života, jíž jsi mě tak zbytečně obdařil? Nevím, nezmocnilo se mě ještě zoufalství a mou jedinou myšlenkou byl hněv a touha po pomstě. Nejraději bych zničil domek i jeho obyvatele a jejich sténání a utrpení by mě naplnilo blahým uspokojením.
 
 Když nastala noc, opustil jsem kůlnu a odešel do lesa. A tam, nebrzděn již strachem z odhalení, jsem hlasitým nářkem popustil uzdu svému žalu. Byl jsem jako divá zvěř, která unikne z pasti. Běžel jsem lesem jako rychlý jelen a ničil jsem vše, co mi přišlo do cesty. Strávil jsem strašnou noc. Studené hvězdy na mě výsměšně shlížely a stromy nade mnou rozpínaly své holé větve. V nesmírném tichu se tu a tam ozval sladký ptačí trylek. Všichni kromě mě odpočívali nebo se radovali. Jen já jsem v sobě jako Satan nesl peklo a při pomyšlení na lidskou zlobu jsem si přál vyrvat stromy z kořenů, šířit kolem zhoubu a zmar a pak se posadit a s uspokojením pohlížet na dílo zkázy.
@@ -76,3 +78,5 @@ Po těchto úvahách jsem opustil místo, kde jsem spáchal vraždu, a hledal n
 Spící dívka se pohnula a mnou proběhla hrůza. Jestliže se probudí a uvidí mě, jistě začne křičet a prohlásí mě za chlapcova vraha. Tato představa mě doháněla k šílenství a probudila ve mně zášť – nebudu trpět já, ale ona. Ona si odpyká vraždu, kterou jsem spáchal, protože jsem navždy připraven o všechno, co by mi mohla dát! Zločin měl svůj původ v ní, nechť je její také trest. Díky Felixovým poučením a krvežíznivým lidským zákonům jsem se už naučil konat zlo. Sklonil jsem se nad ni a pečlivě jsem vložil podobiznu do kapsy v jejích šatech. Opět se pohnula a já jsem prchl.
 
 Několik dní jsem se potloukal kolem místa zločinu. Čas od času jsem si přál setkat se s tebou, jindy jsem byl rozhodnut opustit navždy svět a jeho útrapy. Nakonec jsem se vydal do těchto hor a bloudil po jejich nesmírných rozlohách, stravován horoucí vášní, kterou ty jediný můžeš upokojit. Nesmíme se rozejít, dokud mi neslíbíš, že mému přání vyhovíš. Jsem sám a ubohý, člověk se se mnou nechce stýkat, ale žena tak znetvořená a hrůzná jako já by se mi jistě neodepřela. Má společnice musí být stejného rodu a mít stejné vady. Takového tvora musíš stvořit.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola 9
 contentType: prose
 ---
 
+<section>
+
 Pro člověka není snad nic bolestnějšího, než upadne-li jeho mysl po prudkém vznětu citů, vyvolaném překotným vývojem událostí, do mrtvého nečinného klidu. V něm spočívá jistota, která zbavuje duši naděje i strachu. Justýna zemřela – odpočívala věčným spánkem, a já žil. Krev mi volně proudila, ale hluboké zoufalství a kruté výčitky mi tísnily srdce a pevně v něm utkvěly. Spánek se vyhýbal mým očím a já jsem bloudil jako duch, protože jsem spáchal nepopsatelně strašné zločinné skutky, po nichž přijdou ještě další (jak jsem si namlouval). A přece mi srdce přetékalo ušlechtilou láskou k ctnosti. Vstoupil jsem do života s úmyslem konat jen dobro a prahl jsem po okamžiku, kdy budu moci své sny uskutečnit a stát se užitečným lidstvu. A teď bylo všechno zmařeno: místo čistého svědomí, které by mi dovolovalo spokojeně se ohlédnout na minulost a načerpat z ní přísliby nových nadějí, zmocnily se mě výčitky a pocit viny a zaháněly mě do pekla bolestných muk, jaká ani nelze slovy vyjádřit.
 
 Tyto duševní útrapy těžce doléhaly na můj zdravotní stav. Ve skutečnosti jsem se totiž zcela nezotavil z prvního záchvatu, který jsem prodělal. Vyhýbal jsem se lidem, každý výraz radosti nebo spokojenosti na jejich tvářích byl pro mě mukou, jedinou útěchou mi byla samota – hluboká, temná, smrti podobná samota.
@@ -36,3 +38,5 @@ V Pélissier, kde se údolí, jímž protéká řeka, rozšiřuje, jsem přejel
 Cestou mě často přepadal hřejivý a tak dlouho ztracený pocit štěstí. Tu a tam mi zákrut stezky nebo náhle zahlédnutý a poznaný předmět připomněly minulost spjatou s bezstarostným veselím chlapeckých dnů. Vánek mi šeptal uklidňující slova a matka příroda mě prosila, abych už přestal truchlit. A potom zase přestal laskavý vliv působit – a znovu jsem byl trýzněn zármutkem a oddával se nešťastným úvahám. Tu jsem popohnal svého mezka ve snaze zapomenout na svět, na své strachy a více než na co jiného na sebe samého – anebo jsem, přemohla-li mě úzkost, sestoupil s mezka a vrhl se do trávy, zdeptán hrůzou a strachem.
 
 Konečně jsem úplně vyčerpán dorazil do Chamonix. Chvíli jsem postál u okna, pozoroval jasné blesky, které se křižovaly nad Mont Blankem, a naslouchal hlasitému šumění Arve, která tekla pode mnou. Tyto konejšivé zvuky působily na mé zjitřené smysly jako ukolébavka; když jsem položil hlavu na polštář, přemohl mě spánek. Cítil jsem ho přicházet a vítal ho jako dárce zapomnění.
+
+</section>

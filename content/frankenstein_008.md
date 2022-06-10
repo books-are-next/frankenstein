@@ -3,6 +3,8 @@ title: Dopis IV
 contentType: prose
 ---
 
+<section>
+
 PANÍ SAVILLOVÉ, ANGLIE
 
 _5\. srpna 17…_
@@ -78,3 +80,5 @@ Jistě si umíš představit, jakou mi připravil radost nabídkou, že mi bude 
 „Děkuji vám,“ řekl neznámý, „za vaši náklonost, ale to je zbytečné – můj osud je téměř naplněn. Čekám jen na jednu událost, a pak budu odpočívat v pokoji. Chápu vaše pocity,“ pokračoval, když si všiml, že ho chci přerušit, „ale jste na omylu, příteli, jestliže dovolíte, abych vás tak nazýval. Nic už nemůže změnit můj osud; vyslechněte můj příběh, a pochopíte, jak neodvolatelně je rozhodnut.“
 
 Pak mi řekl, že začne s vyprávěním svého příběhu zítra, najdu-li si ovšem pro něj čas. Jeho slib vyvolal mé nejvřelejší díky. Rozhodl jsem se, že každou noc, jestliže právě nebudu naléhavě zaneprázdněn povinnostmi, zapíši pokud možno jeho vlastními slovy všechno, co mi během dne vyprávěl. Kdybych náhodou měl práci, udělám si alespoň poznámky. Nepochybuji o tom, že Tě mé poznámky zaujmou, ale představ si, s jakým zájmem a potěšením je jednoho dne budu číst já! Vždyť znám vyprávěče a jeho příběh vyslechnu z jeho vlastních rtů! I teď, když stojím na začátku svého úkolu, mi připadá, že slyším zvuk jeho lahodného hlasu, že jeho třpytný zrak spočívá na mně s veškerou svou smutnou odevzdaností a že vidím vyhublou paži vzrušeně pozdviženou, zatímco mu rysy rozzáří vnitřní jas. Jeho příběh bude jistě neobvyklý a otřesný. Jak strašná asi byla bouře, která napadla statečnou loď na její plavbě a takto ji zničila.
+
+</section>

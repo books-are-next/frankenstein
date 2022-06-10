@@ -3,6 +3,8 @@ title: Kapitola 20
 contentType: prose
 ---
 
+<section>
+
 Jednoho večera jsem seděl v laboratoři, slunce již zapadlo a nad mořem právě vycházel měsíc. Již se stmívalo, a proto jsem zůstal nečinně sedět a uvažoval, zda mám na dnešek nechat práce, nebo pilně pokračovat a tak uspíšit její ukončení. Jak jsem seděl, začal jsem znovu přemýšlet o tom, co se stane a jaký výsledek bude mít má nynější námaha. Před třemi lety jsem se zabýval stejným problémem a vytvořil jsem zlosyna, jehož nesrovnatelná surovost mi zlomila srdce a navždy je naplnila nejtrpčími výčitkami. Nyní jsem se chystal vytvořit nového tvora, jeho družku, o jejíž povaze jsem rovněž nic nevěděl. Mohla být deset tisíckrát horší než její druh a libovat si v samoúčelném vraždění a ubližovat lidem. On přísahal, že opustí lidskou společnost a bude se ukrývat v pustinách. Ona však nepřísahala. Ona, která se také s veškerou pravděpodobností stane myslícím a uvažujícím tvorem, by mohla odmítnout podřídit se dohodě uzavřené před jejím vznikem. Oba by se také mohli navzájem nenávidět. Ten, který už žije, proklíná svou ohyzdnost. Nemohl by se jí tedy ještě více děsit, až se mu objeví před očima v ženské podobě? Také ona by se mohla od něho s odporem odvrátit a přiklonit se k lidské kráse, mohla by ho opustit, a on by byl zase sám, rozlícen novou urážkou – být opuštěn tvorem vlastního rodu.
 
 I kdyby opustili Evropu a usídlili se v pustinách Nového světa, vznikly by jako jeden z prvních výsledků vztahu, po němž netvor toužil, děti, a na zemi by se rozmnožila rasa stvůr, které by mohly život lidí ohrozit a naplnit děsem. Měl jsem tedy právo uvalit pro vlastní záchranu toto prokletí na budoucí pokolení? Dal jsem se zviklat klamnými důvody tvora, kterého jsem stvořil, jeho hrozby mě vyvedly z míry, ale tehdy poprvé jsem si náhle uvědomil nesprávnost svého slibu. Zachvěl jsem se při pomyšlení, že by mě budoucí staletí mohla proklínat jako morovou nákazu, jako člověka, který neváhal ze sobeckých důvodů vykoupit si vlastní klid za cenu snad i existence celého lidstva.
@@ -72,3 +74,5 @@ Během této podivné rozmluvy se zástup rychle rozrůstal. Obličeje přítomn
 Tato odpověď mě vyděsila, hned jsem se však opanoval. Ničeho jsem se nedopustil a mohl jsem to snadno dokázat. Proto jsem mlčky šel za svým průvodcem. Zavedl mě k jednomu z nejvýstavnějších domů v městě. Téměř jsem klesal hlady a únavou, byl jsem však obklopen davem, a považoval jsem proto za vhodnější vzchopit se, aby si mou slabost nemohli vykládat jako strach nebo přiznání viny. Netušil jsem tehdy, jaká pohroma mě za několik okamžiků stihne a jak mě svou hrůzou zoufalosti zbaví veškerého strachu z potupy nebo smrti.
 
 Nyní se trochu odmlčím, musím sebrat všechnu odvahu, abych dokázal přivolat vzpomínky na strašlivou událost, kterou vám podrobně vylíčím.
+
+</section>

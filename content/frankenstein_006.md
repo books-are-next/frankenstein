@@ -3,6 +3,8 @@ title: Dopis II
 contentType: prose
 ---
 
+<section>
+
 PANÍ SAVILLOVÉ, ANGLIE
 
 _Archangelsk 28. března 17…_
@@ -25,3 +27,5 @@ Ale vraťme se k příjemnějším úvahám. Setkám se s Tebou znovu, až př
 
 Tvůj milující bratr  
 Robert Walton
+
+</section>

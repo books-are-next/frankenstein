@@ -3,6 +3,8 @@ title: Kapitola 1
 contentType: prose
 ---
 
+<section>
+
 Narodil jsem se v Ženevě v jedné z nejpřednějších rodin republiky. Moji předkové zastávali místa radních a syndiků a můj otec vykonával mnoho let se ctí a věhlasem důležité veřejné funkce. Všichni, kdo ho znali, vážili si ho pro jeho bezúhonnost a neúnavnou péči o veřejné záležitosti. Od mládí byl neustále zaměstnán problémy své vlasti. Řada důvodů mu zabránila záhy se oženit a teprve ve zralém věku si založil rodinu.
 
 Protože okolnosti jeho sňatku vrhají světlo na jeho povahu, nemohu je nevylíčit. Jeden z jeho nejbližších přátel byl majitelem velkého prosperujícího obchodního podniku, ale řada nešťastných náhod ho přivedla na mizinu. Jmenoval se Beaufort, byl hrdý a ne­ústupný, a myšlenka, že by měl žít v nouzi a zapomnění ve stejném kraji, kde byl kdysi vážen pro své společenské postavení a štědrost, mu byla nesnesitelná. Když vyrovnal své dluhy co nejčestněji, odstěhoval se s dcerou do Lucernu, kde žil v odloučenosti a bídě. Otec miloval Beauforta jako nejupřímnější přítel a jeho odchod za tak nešťastných okolností ho velmi trápil. Trpce litoval falešné hrdosti svého přítele, která ho přiměla k chování tak neodpovídajícímu jejich vzájemnému vztahu. Doufal, že ho přesvědčí, aby s jeho úvěrem a pomocí začal nový život, a proto se snažil co nejrychleji objevit místo jeho pobytu.
@@ -25,6 +27,10 @@ Po návratu z Milána mě otec našel v hale naší vily při hře s dítěte
 
 Všichni Alžbětu milovali. Horoucí a téměř zbožňující láska, s níž na ni každý pohlížel, stala se pro mě, který se na ní podílel stejným dílem, pýchou i potěšením. V předvečer Alžbětina příchodu k nám mi matka řekla škádlivě: „Mám pěkný dárek pro svého Viktora – zít­ra ho dostaneš.“ A když mi nazítří představila Alžbětu jako slíbený dárek, vzal jsem s dětskou vážností její slova doslova a pohlížel jsem na Alžbětu jako na své vlastnictví – které musím chránit, milovat a hýčkat. Všechnu chválu, která na ni dopadla, jsem přijímal, jako by byla vyslovována mému majetku. Oslovovali jsme se navzájem jako bratranec a sestřenice. Žádné slovo, žádný výraz však nemohl vyjádřit druh vztahu, který ji ke mně poutal – mou víc než sestru, neboť až do smrti byla pouze mou.
 
-  
+</section>
+
+<section>
 
 [^1]: Neustále se vzpírající otroci.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola 3
 contentType: prose
 ---
 
+<section>
+
 Když mi bylo sedmnáct let, rozhodli rodiče, že mám pokračovat ve studiích na universitě v Ingolstadtu. Až dosud jsem navštěvoval ženevské školy, ale otec považoval za nutné, abych svou výchovu doplnil dalšími vědomostmi, které jsem nemohl získat ve vlasti. Můj odjezd byl stanoven na nejbližší dobu, jenže než přišel určený den, událo se první neštěstí mého života – osudná předzvěst budoucího utrpení.
 
 Alžběta dostala neštovice, její onemocnění bylo vážné a byla ve velkém nebezpečí. Během její nemoci jsme se mnoha důvody snažili přesvědčit matku, aby ji neošetřovala. Zprvu ustoupila našim prosbám, když se však dozvěděla, že život jejího nejmilejšího dítěte je v nebezpečí, nemohla již déle ovládat svou úzkost. Ošetřovala nemocnou, a její pozorná péče zvítězila nad zrádnou chorobou; Alžběta se vyléčila, avšak její zachránkyni se toto uzdravení stalo osudným. Třetí den matka onemocněla, její horečka byla doprovázena velmi znepokojujícími příznaky a obličeje ošetřujících lékařů prozrazovaly nejhorší. Ani na smrtelném loži matku neopustila vlídnost a statečnost. Vzala mě a Alžbětu za ruce a řekla: „Mé děti, nejpevnější naději na vaše budoucí štěstí jsem vkládala do vyhlídky na váš sňatek. Tato naděje teď bude útěchou vašeho otce. Alžběto, má drahá, ty teď musíš zaujmout mé místo u mladších dětí. S jakou lítostí od vás odcházím! Není to tvrdé, že já, tak šťastná a tak milovaná, vás všechny musím opustit? Ale nesmím tak uvažovat! Pokusím se klidně usmířit s myšlenkou na smrt a zemřu s nadějí, že se s vámi setkám na onom světě.“
@@ -44,3 +46,5 @@ Oné noci jsem nezamhouřil oka. Vše se ve mně bouřilo a kácelo. Tušil jse
 Potom mě zavedl do své laboratoře a vysvětlil mi, k čemu slouží jednotlivé přístroje. Současně mě poučil, co si mám opatřit, a slíbil mi, že budu moci používat jeho přístrojů, jakmile už toho budu znát tolik, abych nepoškodil jejich mechanismus. Také mi dal žádaný seznam knih. Pak jsem se rozloučil.
 
 Tím skončil den pro mě tak památný: rozhodl o mém budoucím osudu.
+
+</section>

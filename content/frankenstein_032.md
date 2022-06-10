@@ -3,6 +3,8 @@ title: Kapitola 24
 contentType: prose
 ---
 
+<section>
+
 Na nic jsem tehdy nemohl myslet, všechno pohltila nenávist. Jedině touha po pomstě mi dodávala sílu a rozvahu, stmelovala mé myšlenky a způsobovala, že jsem dokázal být klidný a rozvážný v době, kdy jinak by mým údělem byly šílenství nebo smrt.
 
 Nejprve jsem se rozhodl navždy opustit Ženevu. Vlast, která mi byla drahá v dobách štěstí a lásky, mi teď v době utrpení připadala nesnesitelná. Opatřil jsem si větší obnos peněz a na cestu jsem si vzal něco šperků zděděných po matce.
@@ -50,3 +52,5 @@ A tu, když už jsem měl tohoto vraha na dosah ruky, náhle se mé naděje roz
 Uplynulo několik strašných hodin, většina mých psů pošla a já málem podlehl zoufalství. Vaše zakotvená loď, k níž mě kra unášela, pro mě znamenala naději na pomoc a záchranu. Netušil jsem, že lodi mohou plout až tak vysoko na sever, a pohled na ni mě velmi udivil. Rychle jsem si z kusu saní udělal vesla a s jejich pomocí se mi podařilo namáhavě řídit kru směrem k vaší lodi. Pro případ, že byste měli namířeno na jih, jsem byl rozhodnut svěřit svůj osud i nadále moři, než abych zanechal pronásledování. Ale vy jste mířili přímo na sever. Vzal jste mě na palubu, když jsem byl téměř na konci svých sil a když bych už byl stejně brzy podlehl smrti, které se stále ještě děsím, protože můj úkol je nesplněn.
 
 Musím snad zemřít, a on bude žít? Jestliže ano, pak mi, Waltone, přísahejte, že neunikne, že ho najdete a ukojíte mou pomstu jeho smrtí. Nechci pochopitelně na vás, abyste ho pronásledoval za tak strašných útrap jako já, tak sobecký nejsem. Ale jestliže zemřu a on se objeví nebo vás andělé pomsty k němu zavedou, pak přísahejte, že nebude žít, že nezvítězí nad mým utrpením a nebude dále páchat své temné zločiny. Je výmluvný a přesvědčivý, jednou měla jeho slova dokonce moc nad mým srdcem. Nevěřte mu však. Jeho duše je ohyzdná jako jeho tvář, plná zrady a podlé zloby. Neposlouchejte ho, dovolejte se Viléma, Justýny, Clervala, Alžběty, mého otce i nešťastného Viktora a vražte mu dýku přímo do srdce. Budu při vás a zavedu čepel na správné místo.
+
+</section>

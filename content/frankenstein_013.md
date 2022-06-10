@@ -3,6 +3,8 @@ title: Kapitola 5
 contentType: prose
 ---
 
+<section>
+
 Jedné smutné listopadové noci jsem se dožil dokončení svých snah. S úzkostí, která téměř hraničila s agónií, naskládal jsem kolem sebe životodárné přístroje, abych mohl vdechnout jiskru života do neživé hmoty, která mi ležela u nohou. Byla jedna hodina po půlnoci, déšť bubnoval neutěšeně do oken a svíčka již dohořívala, když za posledního záblesku světla jsem spatřil, jak můj výtvor otevřel matně žluté oko. Jeho dech byl těžký a údy se mu křečovitě zmítaly.
 
 Jak mám vylíčit své pocity při této úděsné události nebo jak popsat stvůru, kterou jsem s tak nesmírnými strázněmi a obtížemi vytvořil? Údy byly souměrné a rysy v obličeji jsem vybral tak, aby byly krásné. Krásné! Bože můj! Žlutá kůže sotva skryla soustavu svalů a žil, vlasy byly leskle černé, rozevláté, zuby bělostné jako perly, jenže tento lesk tvořil tím strašnější kontrast s vodovýma očima, které měly téměř stejnou barvu jako špinavé oční důlky, v nichž byly zasazeny, jako svraštělá pokožka a úzké zatrpklé rty.
@@ -17,7 +19,9 @@ Konečně nastalo chmurné a deštivé svítání a před mýma bezesnýma roz
 
 Kráčel jsem stále dál a dál, pln naděje, že tělesným pohybem zmírním úzkost, která mi tížila mysl. Procházel jsem ulicemi, aniž jsem jasně věděl, kde jsem nebo co dělám. Srdce, nemocné strachem, mi bušilo, a já spěchal dál nejistým krokem a neodvažoval se ohlédnout:
 
-  
+</section>
+
+<section>
 
 „Jak ten, kdo cestou ztracenou  
 hled leká se a chví  
@@ -26,7 +30,9 @@ zpět nezře už, neb ví,
 že v patách za ním po cestě  
 jde démon strašlivý.“[^5]
 
-  
+</section>
+
+<section>
 
 Tak jsem došel až k hostinci, u něhož se obvykle zastavovaly různé dostavníky a povozy. Zarazil jsem se tu, aniž jsem věděl proč. Chvíli jsem postál a upíral zrak na kočár, který přijížděl proti mně z druhého konce ulice. Když se přiblížil, všiml jsem si, že to je dostavník ze Švýcarska. Zastavil těsně u mě, a když se otevřela dvířka, spatřil jsem Jindřicha Clervala. Jakmile mě zahlédl, ihned vyskočil ven. „Můj milý Frankensteine!“ zvolal, „to jsem rád, že tě vidím! Jaké štěstí, že jsi tady právě při mém příjezdu!“
 
@@ -66,8 +72,12 @@ Zachvěl jsem se. O jedné věci! Co by to mohlo být? Naráží snad na věc, 
 
 „Jestliže jsi teď tak příjemně naladěn, příteli, pak si snad s radostí přečteš dopis, který tu už několik dní leží. Myslím, že je od tvé sestřenky.“
 
-  
+</section>
+
+<section>
 
 [^5]: S. T. Coleridge: _Píseň o starém námořníku_, překlad Josefa Palivce.
 
 [^6]: Oliver Goldsmith: _Farář wakefieldský_, překlad M. Jindra a A. Jindrová Špilarová.
+
+</section>

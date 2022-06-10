@@ -3,6 +3,8 @@ title: Kapitola 12
 contentType: prose
 ---
 
+<section>
+
 Ležel jsem na slámě, ale nemohl jsem usnout. Myslel jsem na to, co jsem toho dne zažil. Zejména na mě zapůsobilo laskavé jednání mých sousedů a já zatoužil vejít k nim, ale dobře jsem si pamatoval lekci, které se mi dostalo předešlého dne od surových vesničanů. Usoudil jsem proto, že ať už se později rozhodnu pro cokoliv, prozatím zůstanu klidně ve své kůlně, budu pozorovat konání svých sousedů a vynasnažím se poznat, jakými pohnutkami jsou jejich činy vedeny.
 
 Obyvatelé domku vstávali ráno před východem slunce. Mladá žena uklidila a připravila jídlo. Mladík odešel hned po snídani.
@@ -40,3 +42,5 @@ Můj rozum se stále více rozvíjel a já toužil poznat hlouběji pohnutky a�
 Tyto myšlenky mi dodávaly dobrou náladu a přiměly mě, abych se s ještě větším vypětím sil snažil osvojit si umění řeči. Můj hlas byl sice hrubý, ale poddajný, a i když byl na hony vzdálen lahodnému zvuku řeči mých sousedů, přece jsem celkem snadno vyslovoval ta slova, s nimiž jsem se seznámil.
 
 Příjemné jarní přeháňky a teplé počasí podstatně změnily tvářnost krajiny. Lidé, kteří se snad před touto změnou skrývali v příbytcích, vyšli ven a zabývali se obděláváním půdy. Ptáci zpívali radostněji a na stromech začalo rašit listí. Okouzlující vzhled přírody mě blažil, minulost byla smazána z mé mysli, přítomnost byla plná klidu a budoucnost mi zářila vstříc jasnými paprsky naděje a předtuchami radostí.
+
+</section>

@@ -3,6 +3,8 @@ title: Kapitola 14
 contentType: prose
 ---
 
+<section>
+
 Teprve po delším čase jsem se seznámil s příběhem svých přátel. Zapůsobil na mě silným dojmem, protože mi objevil nový svět s neznámými okolnostmi, které mně – byl jsem tehdy nezkušený – připadaly zajímavé a fascinující.
 
 Stařec se jmenoval de Lacey. Pocházel z urozené francouzské rodiny, žil mnoho let v blahobytu, vážen svými nadřízenými a milován sobě rovnými. Jeho syn sloužil v armádě rodné země a Agáta se stýkala s dámami z nejlepší společnosti. Ještě několik měsíců před mým příchodem žili obklopeni přáteli ve velkém a bohatém městě nazývaném Paříž a dopřávali si každé radosti, kterou může poskytnout ctnost, vytříbená mysl či vkus doprovázené přiměřeným jměním.
@@ -42,3 +44,5 @@ Po několika dnech přišel Turek k dceři do pokoje a spěšně jí sdělil, 
 Když Safie osaměla, uvažovala, jak se v této neočekávané situaci zachovat. Už jen myšlenka na život v Turecku jí byla odporná, stejně se tomu příčily její náboženství a city. Náhodou se jí dostalo do rukou několik otcových listin a z nich zjistila, že její ženich byl odsouzen k vyhnanství. Dozvěděla se i jméno místa, kde žil. Nějaký čas váhala, ale nakonec se rozhodla. Vzala si své šperky a trochu peněz a v doprovodu služebné, rozené Livorňanky, která však uměla turecky, odjela z Itálie do Německa.
 
 Bez nesnází dorazili do města vzdáleného asi dvacet mil od místa, kde žil de Lacey s dětmi, ale tam služebná těžce onemocněla. Safie ji oddaně ošetřovala, ubohá dívka však zemřela a Arabka zůstala sama, bez znalostí místního jazyka a neobeznámená se zvyky země. Naštěstí se octla u dobrých lidí. Italka před smrtí jmenovala místo, kam měly namířeno, a bytná se postarala o to, aby se Safie bezpečně dostala do domku svého ženicha.
+
+</section>

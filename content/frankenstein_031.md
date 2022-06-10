@@ -3,6 +3,8 @@ title: "Kapitola\_23"
 contentType: prose
 ---
 
+<section>
+
 Přistáli jsme kolem osmé. Chvíli jsme se procházeli po břehu v příjemném soumraku a pak jsme se odebrali do hostince, odkud byl výhled na překrásné jezero lemované lesy a horami, jejichž černé obrysy se vzdor tmě dosud odrážely od noční oblohy.
 
 Na jihu se vítr utišil, ale zvedl se znovu na západě. Měsíc již dostoupil vrcholu své dráhy a začal se sklánět k obzoru. Mraky přes něj přelétávaly rychleji než draví ptáci, zastíraly jeho zář, v jezeře se odrážel obraz neklidné oblohy, čeřený vzdouvajícími se vlnami. Náhle vypukla prudká průtrž mračen.
@@ -62,3 +64,5 @@ Při těchto slovech jsem se roztřásl a z mého chování vyzařovaly posedl
 „Pyšníte se tím, pane soudce, jak jste moudrý, a přitom jste nevědomý jako děcko!“ zvolal jsem. „Mlčte, vždyť nevíte, co mluvíte!“
 
 Rozhněván a rozrušen jsem vyběhl z místnosti a vrátil se domů, abych přemítal o tom, co podniknout.
+
+</section>

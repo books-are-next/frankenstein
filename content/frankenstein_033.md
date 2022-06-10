@@ -3,6 +3,8 @@ title: Deník kapitána Waltona, pokračování
 contentType: prose
 ---
 
+<section>
+
 _26\. srpna 17…_
 
 Přečetla jsi tento podivný a strašný příběh, Margareto, a jistě ses zhrozila stejně jako já. Frankensteina občas při vyprávění přemohlo náhlé zoufalství a nemohl pokračovat, jindy rozechvělým prudkým hlasem těžce pronášel slova naplněná úzkostí. Jeho jemné krásné oči chvílemi plály rozhořčením, chvílemi vyjadřovaly zármutek a nesmírné utrpení. Někdy ovládal svůj výraz a tón hlasu a klidně vyprávěl o nejhroznějších událostech, potlačuje každý náznak vzrušení, jindy se mu na obličeji objevil jako náhlý výbuch sopky výraz divokého záští, zejména když zahrnoval svého nepřítele kletbami.
@@ -112,3 +114,5 @@ Ale už brzy zemřu,“ dodal s bolestně slavnostním odhodláním, „a vše,
 Radostně vystoupím na svou pohřební mohylu a spokojeně zahynu v ničivých plamenech. Jas požáru brzy zhasne a větry smetou můj popel do moře. Můj duch bude odpočívat v pokoji, a bude-li snad ještě myslet, pak jistě nebude myslet tímto způsobem. Sbohem.“
 
 Po těchto slovech vyskočil netvor oknem kabiny na kru plující těsně u lodi. Zakrátko ho vlny odnesly a ztratil se v temné dálce.
+
+</section>

@@ -3,9 +3,13 @@ title: Kapitola 6
 contentType: prose
 ---
 
+<section>
+
 Clerval mi vložil do ruky dopis. Byl od Alžběty.
 
-  
+</section>
+
+<section>
 
 „Můj nejdražší bratranče,
 
@@ -47,3 +51,5 @@ Tak jsme se toulali čtrnáct dní. Tělesně i duševně jsem se již dávno z
 Jindřich se těšil z mé dobré nálady a upřímně sdílel mou radost. Snažil se mě bavit a současně mi sděloval myšlenky, které mu naplňovaly duši. Jeho mysl byla nevyčerpatelným zdrojem nápadů, jeho rozhovor byl pln fantazie a velmi často napodoboval perské a arabské spisovatele a vymýšlel si obdivuhodně barvité příběhy plné vášně. Jindy mi přednášel mé oblíbené básně nebo mě vtahoval do diskusí, v nichž si vedl s velkou vynalézavostí.
 
 Vrátili jsme se do koleje v neděli odpoledne. Vesničané byli na tanečních zábavách a každý, koho jsme potkali, vypadal vesele a šťastně. Sám jsem měl skvělou náladu a překypoval jsem nespoutanou radostí a veselostí.
+
+</section>
