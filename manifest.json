@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shelleyova-frankenstein-43994da",
-  "revision": "43994da",
+  "identifier": "shelleyova-frankenstein-81fef24",
+  "revision": "81fef24",
   "readingOrder": [
     "promo.html",
     "frankenstein_005.html",
@@ -44,8 +44,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:58:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948684876
+    "date": "Mon Jun 13 2022 21:53:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157239564
   },
   "documents": [
     {
@@ -643,9 +643,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 83,
-      "chars": 573,
-      "ideas": 7,
+      "words": 120,
+      "chars": 781,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "frankenstein_033.html",
@@ -663,9 +663,9 @@
   ],
   "totals": {
     "all": {
-      "words": 60616,
-      "chars": 366677,
-      "ideas": 802
+      "words": 60653,
+      "chars": 366885,
+      "ideas": 812
     },
     "chapters": {
       "words": 60528,
