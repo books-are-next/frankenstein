@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shelleyova-frankenstein-038eea7",
-  "revision": "038eea7",
+  "identifier": "shelleyova-frankenstein-99c9907",
+  "revision": "99c9907",
   "readingOrder": [
     "promo.html",
     "frankenstein_005.html",
@@ -44,8 +44,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:49:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272177124
+    "date": "Thu Jun 16 2022 07:29:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364571590
   },
   "documents": [
     {
