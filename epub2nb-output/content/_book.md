@@ -44,7 +44,7 @@ readingOrder:
   - frankenstein_031.html
   - frankenstein_032.html
   - frankenstein_033.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

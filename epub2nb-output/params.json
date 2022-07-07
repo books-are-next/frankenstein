@@ -61,7 +61,7 @@
             "filename": "frankenstein_003.md",
             "xhtml": "frankenstein_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -72,7 +72,7 @@
             "filename": "frankenstein_004.md",
             "xhtml": "frankenstein_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -403,7 +403,7 @@
             "filename": "frankenstein_034.md",
             "xhtml": "frankenstein_034.xhtml",
             "id": 33,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": [],
@@ -704,6 +704,6 @@
       "user": "books-are-next",
       "repo": "frankenstein"
     },
-    "generatedAt": 1655978417432
+    "generatedAt": 1657181857652
   }
 }
